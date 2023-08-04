@@ -1,0 +1,7 @@
+displayName = 瑟银Mod-汉化补丁
+author = 末泠
+version = 3.0
+modReferences = ThoriumMod
+translationMod = true
+side = Client
+sortAfter = ThoriumMod

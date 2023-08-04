@@ -1,0 +1,10 @@
+这是ThoriumMod的一个汉化补丁。
+This is a Chinese-translation patch for ThoriumMod Mod.
+
+
+-= 介绍 =-
+
+-= 使用方法 =-
+1.同时订阅ThoriumMod和本Mod
+2.进入tml，在模组管理中同时启用ThoriumMod和本Mod
+3.安装完成，进行游戏
