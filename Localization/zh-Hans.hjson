@@ -1981,8 +1981,8 @@ Mods: {
 			}
 
 			BloomingBlade: {
-				DisplayName: Blooming Blade
-				Tooltip: Damaging enemies grants brief life recovery
+				DisplayName: 绽花之刃
+				Tooltip: 对敌人造成伤害，获得短暂的生命再生
 			}
 
 			BloomingBow: {
@@ -4081,7 +4081,7 @@ Mods: {
 				/* Tooltip:
 					'''
 					'Like carrot cake, but smaller!'
-					Grants increased vision for a time
+					Grants increased vision and minor improvements to all stats
 					''' */
 			}
 
@@ -4090,7 +4090,7 @@ Mods: {
 				/* Tooltip:
 					'''
 					'Home-made with cherry-picked cherries!'
-					Grants increased life regeneration for a time
+					Grants increased life regeneration and minor improvements to all stats
 					''' */
 			}
 
@@ -4165,7 +4165,7 @@ Mods: {
 				/* Tooltip:
 					'''
 					'Toasted to perfection!'
-					Grants increased knockback for a time
+					Grants increased knockback and minor improvements to all stats
 					''' */
 			}
 
@@ -4188,7 +4188,7 @@ Mods: {
 				/* Tooltip:
 					'''
 					'A nice cold, sweet treat!'
-					Grants increased magic damage for a time
+					Grants increased magic damage and minor improvements to all stats
 					''' */
 			}
 
@@ -4348,7 +4348,7 @@ Mods: {
 				/* Tooltip:
 					'''
 					'Soft, sweet, and oh-so fluffy'
-					Grants increased movement speed for a time
+					Grants increased movement speed and minor improvements to all stats
 					''' */
 			}
 
@@ -4375,7 +4375,7 @@ Mods: {
 				/* Tooltip:
 					'''
 					'The fact you could chew this is proof you're tough enough already'
-					Grants increased defense for a time
+					Grants increased defense and minor improvements to all stats
 					''' */
 			}
 
@@ -4819,8 +4819,8 @@ Mods: {
 				DisplayName: Crystal Wave
 				/* Tooltip:
 					'''
-					Permanently increases your base movement speed by 4%
-					Can be used up to 5 times
+					Permanently increases your base movement speed by {0}%
+					Can be used up to {1} times
 					''' */
 			}
 
@@ -5251,12 +5251,12 @@ Mods: {
 			}
 
 			Bellerose: {
-				DisplayName: Bellerose
-				/* Tooltip:
+				DisplayName: 玫瑰伞刃
+				Tooltip:
 					'''
-					After three successful attacks, you may right click to unleash a powerful tornado
-					Hold UP while falling to slow your descent
-					''' */
+					三次成功命中敌人后，你可以点击右键释放一个强力旋风
+					按住上键减缓下落速度
+					'''
 			}
 
 			BioPod: {
@@ -5285,8 +5285,8 @@ Mods: {
 			}
 
 			Blitzzard: {
-				DisplayName: Blitz-zard
-				Tooltip: Right click to do a freezing horizontal dash
+				DisplayName: 飞雪
+				Tooltip: 右键霜冻冲刺
 			}
 
 			BlizzardPouch: {
@@ -5316,12 +5316,12 @@ Mods: {
 			}
 
 			BloodDrinker: {
-				DisplayName: Blood Drinker
-				/* Tooltip:
+				DisplayName: 饮血者
+				Tooltip:
 					'''
-					Melee strikes store up to 10 blood essence
-					Right click uses essence to fire a damaging stream that heals you and your allies
-					''' */
+					近战命中敌人获得1点精血，最多获得10个精血
+					点击右键消耗所有精血治疗你和你的队友
+					'''
 			}
 
 			BloodGlory: {
@@ -5334,12 +5334,12 @@ Mods: {
 			}
 
 			BloodyHighClaws: {
-				DisplayName: Bloody High Claw
-				/* Tooltip:
+				DisplayName: 血腥巨爪
+				Tooltip:
 					'''
-					'Bleed for me...'
-					Critical strikes gouge the hit target
-					''' */
+					“为我流血吧……”
+					暴击会造成凿穿效果
+					'''
 			}
 
 			BloodyPaganStaff: {
@@ -10200,8 +10200,8 @@ Mods: {
 			}
 
 			ChampionSwiftBlade: {
-				DisplayName: Champion's Swift Blade
-				Tooltip: Your first hit every swing releases a quick wind slash
+				DisplayName: 英灵的迅捷锋刃
+				Tooltip: 你每次命中的第一下都会释放一个快速的风刃
 			}
 
 			ChampionWing: {
@@ -10614,8 +10614,8 @@ Mods: {
 			}
 
 			AdamantiteStaff: {
-				DisplayName: Adamantite Staff
-				Tooltip: Fires an orb of magic, which can pop into multiple bolts at your cursor
+				DisplayName: 精金法杖
+				Tooltip: 发射法术之球，会在鼠标位置分裂成数道法术射线
 			}
 
 			BlackholeCannon: {
@@ -11322,7 +11322,7 @@ Mods: {
 			}
 
 			GlitchDye: {
-				DisplayName: 故障染料	
+				DisplayName: 故障染料
 				Tooltip: ""
 			}
 
@@ -11739,8 +11739,8 @@ Mods: {
 			}
 
 			BentZombieArm: {
-				DisplayName: Bent Zombie Arm
-				Tooltip: "'The confused zombie's favorite arm... His left one'"
+				DisplayName: 僵尸曲臂
+				Tooltip: “那只困惑僵尸最喜欢的手臂……然而他弄丢了”
 			}
 
 			BlacksmithApron: {
