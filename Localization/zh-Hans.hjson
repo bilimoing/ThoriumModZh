@@ -53,17 +53,17 @@ Mods: {
 			ThoriumModTip2: 瑟银Mod: 气泡可以让您在水下呼吸一段时间。泡泡磁铁会吸引他们到你身边。
 			ThoriumModTip3: 瑟银Mod: 水晶波痕在困难模式下在深渊生长;使用它们来提高您的移动速度！
 			ThoriumModTip4: 瑟银Mod: 血室位于地下某处。在祭坛上献上五个邪恶碎片，风险自负……
-			ThoriumModTip5: 瑟银Mod: 使用技术卷轴装备它，然后用足够的技术点按投掷秘技键来使用它的效果!
-			ThoriumModTip6: 瑟银Mod: 作为一个牧师，如果你死了，你就不能帮助你的盟友，所以永远确保你自己的安全第一!
+			ThoriumModTip5: 瑟银Mod: 使用技术卷轴装备它，然后用足够的技术点按投掷秘技键来使用它的效果！
+			ThoriumModTip6: 瑟银Mod: 作为一个牧师，如果你死了，你就不能帮助你的盟友，所以永远确保你自己的安全第一！
 			ThoriumModTip7: 瑟银Mod: 最大的灵感可以通过三层不同的灵感碎片来提升。
 			ThoriumModTip8: 瑟银Mod: 某些乐师乐器要求你根据节奏来演奏，以获得最佳的演奏效果。
-			ThoriumModTip9: 瑟银Mod: 剑鞘可以让你将多次剑击浓缩成一次爆发。在合适的时候进攻!
+			ThoriumModTip9: 瑟银Mod: 剑鞘可以让你将多次剑击浓缩成一次爆发。在合适的时候进攻！
 			ThoriumModTip10: 瑟银Mod: 当你转化成其他生物时，你不能使用除灵魂链接外的任何物品。
-			ThoriumModTip11: 瑟银Mod: 一定要向指南展示任何和所有物品，看看你可以用它们制作什么新东西!
+			ThoriumModTip11: 瑟银Mod: 一定要向指南展示任何和所有物品，看看你可以用它们制作什么新东西！
 			ThoriumModTip12: 瑟银Mod: 某些库存杂物，如蜘蛛网和矿石，可以放置在你的弹药槽。
-			ThoriumModTip13: 瑟银Mod: 物品与蓝绿色的名字是瑟银Mod专门为捐赠者准备的!
+			ThoriumModTip13: 瑟银Mod: 物品与蓝绿色的名字是瑟银Mod专门为捐赠者准备的！
 			ThoriumModTip14: 瑟银Mod: 一旦你找到一些铁，蚁狮下颌骨和陨落之星，惊雷王鹰就可以被挑战。
-			ThoriumModTip15: 瑟银Mod: 水母共振器可以吸引各种水母…包括巨大的变种人!
+			ThoriumModTip15: 瑟银Mod: 水母共振器可以吸引各种水母…包括巨大的变种人！
 			ThoriumModTip16: 瑟银Mod: 一定要准备一把邪恶碎片，把子爵吸引到他的洞穴房间里。
 			ThoriumModTip17: 瑟银Mod: 一旦地牢的诅咒被解除，花岗岩洞穴将获得新的居民。留意任何看起来挥发性的能量露头……
 			ThoriumModTip18: 瑟银Mod: 一旦地下城的诅咒被解除，大理石洞穴将获得新的居民。留意任何看起来可疑的岩层……
@@ -80,10 +80,10 @@ Mods: {
 			ThoriumModTip29: 瑟银Mod: 只需要一小笔费用，沙漠助手就能使沙漠变得暴风雨。
 			ThoriumModTip30: 瑟银Mod: 如果你杀死了一种皇家黏液，它的优质美味凝胶可能会吸引厨师前来。
 			ThoriumModTip31: 瑟银Mod: 困惑僵尸可能很奇怪，但他对各种生物的驱虫剂不是开玩笑的。
-			ThoriumModTip32: 瑟银Mod: 需要一些额外的装备吗?去拜访铁匠和他的货物吧!
+			ThoriumModTip32: 瑟银Mod: 需要一些额外的装备吗？去拜访铁匠和他的货物吧！
 			ThoriumModTip33: 瑟银Mod: 成功猎到一只过度生长的眼睛会邀请追踪者为你提供特殊的怪物合同。
-			ThoriumModTip34: 瑟银Mod: 潜水者为大海而生……以至于他被一只变异水母整个吞了下去!
-			ThoriumModTip35: 瑟银Mod: 对园艺感兴趣?德鲁伊非常乐意卖草药种子。
+			ThoriumModTip34: 瑟银Mod: 潜水者为大海而生……以至于他被一只变异水母整个吞了下去！
+			ThoriumModTip35: 瑟银Mod: 对园艺感兴趣？德鲁伊非常乐意卖草药种子。
 			ThoriumModTip36: 瑟银Mod: 唯心论者最渴望的是和谐。压制一个远古战士的灵魂应该能说服他帮助你。
 			ThoriumModTip37: 瑟银Mod: 作为一个被流放的恶魔，武器大师可以被雇佣来帮助你在战斗中换取你的硬币。
 		}
@@ -114,1568 +114,1354 @@ Mods: {
 		}
 
 		Buffs: {
-			AbyssalShadowBuff: {
-				CommonDisplayName: 深渊幻影
-				CommonDescription: 有什么东西在黑暗中盯着你...
+			AbyssalShadowBuff:{
+				DisplayName: 深渊幻影
+				Description: 有什么东西在黑暗中盯着你……
 			}
 
 			AbyssalShadowBuff3.Description: 水泛起涟漪……
 
-			AbyssalShellBuff: {
+			AbyssalShellBuff:{
 				DisplayName: 深渊贝壳
 				Description: 绝对防御, 无物可伤！
 			}
-
-			AbyssalWeight: {
+			AbyssalWeight:{
 				DisplayName: 深渊重压
 				Description: 伤害、防御和移动速度大幅度降低
 			}
-
-			AirStrikeShieldBuff: {
-				DisplayName: 盾之勇者的防护
-				Description: 减少15点受到的所有伤害
+			AirStrikeShieldBuff:{
+				DisplayName: 空中打击盾
+				Description: 所有来源的伤害减少15
 			}
-
-			AquaAffinity: {
-				DisplayName: 亲水性
-				Description: 在水中移动时不会受到限制
+			AquaAffinity:{
+				DisplayName: 水之亲和
+				Description: 湿滑时运动增加
 			}
-
-			Aquamancer: {
-				DisplayName: 深海法师
-				Description: 魔法伤害和施法速度大幅度增加
+			Aquamancer:{
+				DisplayName: 水之漫游者
+				Description: 你的魔法伤害和施法速度大幅提高
 			}
-
-			AquaticAptitude: {
-				DisplayName: 深海之护
-				Description: 四周的水赋予你力量！
+			AquaticAptitude:{
+				DisplayName: 水生能力
+				Description: 周围的水赋予你力量！
 			}
-
-			ArcanePotionBuff: {
-				DisplayName: 奥术能量
-				Description: 魔法和光辉伤害会生成迷你星星
+			ArcanePotionBuff:{
+				DisplayName: 奥术之力
+				Description: 魔法和范围伤害产生迷你星星
 			}
-
-			ArtilleryBuff: {
-				DisplayName: 炮兵部队
+			ArtilleryBuff:{
+				DisplayName: 火炮
 				Description: 增加你的最大哨兵数量
 			}
-
-			AssassinPotionBuff: {
+			AssassinPotionBuff:{
 				DisplayName: 刺客
 				Description: 脱离战斗后下次投掷攻击必定暴击且造成4倍伤害
 			}
-
-			AudioOverload: {
+			AudioOverload:{
 				DisplayName: 音频过载
-				Description: 音波伤害增加15%
+				Description: 音波伤害提高15%
 			}
-
-			ConductorsStandBuff: {
+			ConductorsStandBuff:{
 				DisplayName: 指挥者
 				Description: 咒音增幅的持续时间和效应范围增加
 			}
-
-			CreativeBlock: {
+			CreativeBlock:{
 				DisplayName: 创意阻塞
-				Description: 那无限的创意停止了
+				Description: 无法释放你无尽的创造力
 			}
-
-			CreativityPotionBuff: {
+			CreativityPotionBuff:{
 				DisplayName: 创意
 				Description: 基础灵感音符掉落几率翻倍
 			}
-
-			EarwormPotionBuff: {
+			EarwormPotionBuff:{
 				DisplayName: 耳虫
 				Description: 咒音增幅持续时间延长25%
 			}
-
-			InspirationReachPotionBuff: {
+			InspirationReachPotionBuff:{
 				DisplayName: 灵感之触
 				Description: 灵感音符的拾取距离扩大
 			}
-
-			MaestroSetDebuff: {
+			MaestroSetDebuff:{
 				DisplayName: 陨落合唱团
 				Description: 陨落合唱团正在重新充能
 			}
-
-			MetronomeBuff: {
-				DisplayName: 快节奏
-				Description: 音波伤害和演奏速度增加
+			MetronomeBuff:{
+				DisplayName: 节拍器增益
+				Description: 音波伤害和演奏速度提高
 			}
-
-			MetronomeDebuff: {
-				DisplayName: 慢节奏
-				Description: 音波伤害和演奏速度减少
+			MetronomeDebuff:{
+				DisplayName: 节拍器减益
+				Description: 音波伤害和演奏速度降低
 			}
-
-			ShockAbsorberBuff: {
+			ShockAbsorberBuff:{
 				DisplayName: 动能转换
 				Description: 增加15%伤害
 			}
-
-			SoloistsHatSetBuff: {
+			SoloistsHatSetBuff:{
 				DisplayName: 无限创想
 				Description: 你对音乐的把握已不在任何人之下
 			}
-
-			ZunpetBuff: {
-				DisplayName: ZUN号能量
+			ZunpetBuff:{
+				DisplayName: 小号能量
 				Description: 音波伤害增加
 			}
-
-			BatRepellentBuff: {
-				DisplayName: 趋避剂: 蝙蝠
-				Description: 大多数蝙蝠对你而言变得友好了
+			BatRepellentBuff:{
+				DisplayName: 驱避剂:蝙蝠
+				Description: 大多数蝙蝠会对你友好
 			}
-
-			BeetleCarapace: {
-				DisplayName: 甲虫盔甲
-				Description: 增加伤害减免,能够反弹伤害
+			BeetleCarapace:{
+				DisplayName: 甲虫甲壳
+				Description: 伤害减少增加并反映伤害
 			}
-
-			BlightFever: {
-				DisplayName: 凋零狂热
-				Description: 枯萎之灵获得了这个生物的灵魂...
+			BlightFever:{
+				DisplayName: 白热病
+				Description: 全能者夺走了这个人的灵魂……
 			}
-
-			BloodHarvest: {
+			BloodHarvest:{
 				DisplayName: 鲜血丰收
 				Description: 无法使用鲜血充能
 			}
-
-			BloodRush: {
-				DisplayName: 热血沸腾
-				Description: 移动速度和挖掘速度增加15%
+			BloodRush:{
+				DisplayName: 血潮
+				Description: 移动和采矿速度提高15%
 			}
-
-			BloodyWandDebuff: {
-				DisplayName: 穿刺
-				Description: 快速损失生命值
+			BloodyWandDebuff:{
+				DisplayName: 血腥的
+				Description: 从血栓中获得更多的伤害
 			}
-
-			BouncingFlamePotionBuff: {
+			BouncingFlamePotionBuff:{
 				DisplayName: 弹跳火焰
 				Description: 火焰类减益会在敌人之间扩散
 			}
-
-			Bubbled: {
-				DisplayName: 泡泡
-				Description: 你飘走了！
+			Bubbled:{
+				DisplayName: 冒泡的
+				Description: 你漂走了！
 			}
-
-			CactusFruitBuff: {
+			CactusFruitBuff:{
 				DisplayName: 美味又扎手
 				Description: 你现在免疫大多数属性削弱类减益
 			}
-
-			ChaosState: {
-				DisplayName: 混乱状态:传送
-				Description: 你的身体在混沌传送之后正在自我修复
+			ChaosState:{
+				DisplayName: 混沌状态:传送
+				Description: 你的身体仍在从传送中回复
 			}
-
-			Charmed: {
-				DisplayName: 魅惑
-				Description: 此敌人无法抵抗你的魅力！
+			Charmed:{
+				DisplayName: 魅力四射
+				Description: 这个敌人无法抵抗你的诱惑！
 			}
-
-			Chill: {
-				DisplayName: 颤栗
-				Description: 开始颤抖
+			Chill:{
+				DisplayName: 寒冷
+				Description: 越来越冷
 			}
-
-			ChokingAura: {
+			ChokingAura:{
 				DisplayName: 窒息光环
-				Description: 深海污染了附近的空气并使其变得剧毒
+				Description: 最肮脏的存在污染和毒害了附近的空气
 			}
-
-			CobblerBuff: {
-				DisplayName: 闪亮皮鞋
-				Description: 移动速度、奔跑加速度和跳跃高度增加
+			CobblerBuff:{
+				DisplayName: 闪亮的鞋子
+				Description: 移动速度、跑步加速度和跳跃高度增加
 			}
-
-			ConflagrationPotionBuff: {
+			ConflagrationPotionBuff:{
 				DisplayName: 不羁放纵爱自由
 				Description: 燃烧的怒火占了上风
 			}
-
-			Corporeal: {
-				DisplayName: 灵魂分离
-				Description: 你的灵魂枢带正在重新充能
+			Corporeal:{
+				DisplayName: 物质的
+				Description: 你的精神正在充电
 			}
-
-			Corrosion: {
+			Corrosion:{
 				DisplayName: 腐蚀
-				Description: 防御降低且会持续受到伤害
+				Description: 持续时间内，所有来源的伤害增加5%
 			}
-
-			CursedHurl: {
+			CursedHurl:{
 				DisplayName: 诅咒之掷
 				Description: 你失控了
 			}
-
-			DarknessWithin: {
-				DisplayName: 暗流涌动
-				Description: 只有最强的敌人才能满足你的欲望...
+			DarknessWithin:{
+				DisplayName: 内心的黑暗
+				Description: 只有最强的敌人才能满足你的渴望……
 			}
-
-			DecayingFlesh: {
-				DisplayName: 血肉腐烂
-				Description: 此目标的血肉严重腐烂了
+			DecayingFlesh:{
+				DisplayName: 腐烂的肉
+				Description: 这个目标的肉体正在严重腐烂
 			}
-
-			DeepFreezeCoatingBuff: {
-				DisplayName: 投掷武器灌注: 深度冻结
+			DeepFreezeCoatingBuff:{
+				DisplayName: 投掷武器灌注: 深渊冻结
 				Description: 使用投掷武器攻击敌人时有几率大幅度降低其移动速度
 			}
-
-			DepthBreath: {
+			DepthBreath:{
 				DisplayName: 深渊:呼吸
 				Description: 你可以在水下呼吸
 			}
-
-			DepthDamage: {
-				DisplayName: 深渊:伤害
-				Description: 增加10%所造成的伤害
+			DepthDamage:{
+				DisplayName: 深渊:损坏
+				Description: 造成的伤害增加10%
 			}
-
-			DepthSpeed: {
-				DisplayName: 深渊:急速
-				Description: 增加10%移动速度
+			DepthSpeed:{
+				DisplayName: 深渊:速度
+				Description: 移动速度提高10%
 			}
-
-			Destabilized: {
-				DisplayName: 稳定空间
-				Description: 你的存在正被逐渐抹去
+			Destabilized:{
+				DisplayName: 不稳定的
+				Description: 你的存在正在逐渐消失
 			}
-
-			DevilDaggerBuff: {
+			DevilDaggerBuff:{
 				DisplayName: 恶魔之舞
 				Description: 造成额外20%魔法伤害
 			}
-
-			EmergencyAirTank: {
-				DisplayName: 紧急空气瓶
-				Description: 如果到达临界水平，你的呼吸会得到补充
+			EmergencyAirTank:{
+				DisplayName: 应急空气罐
+				Description: 如果达到临界水平，你的呼吸将得到补充
 			}
-
-			EscapeRocketBuff: {
+			EscapeRocketBuff:{
 				DisplayName: 逃生火箭
-				Description: 全速推进！
+				Description: 炽热的推进器正在全速运转！
 			}
-
-			ExplosiveCoatingBuff: {
+			ExplosiveCoatingBuff:{
 				DisplayName: 投掷武器灌注: 爆炸
 				Description: 使用投掷武器攻击敌人时有几率造成爆炸, 点燃附近的敌人
 			}
-
-			FishRepellentBuff: {
-				DisplayName: 趋避剂: 鱼
-				Description: 大多数鱼对你而言变得友好了
+			FishRepellentBuff:{
+				DisplayName: 驱避剂:鱼类
+				Description: 大多数鱼类都会对你友好
 			}
-
-			FlawlessChrysalisDebuff: {
+			FlawlessChrysalisDebuff:{
 				DisplayName: 恢复中
-				Description: 肾虚有些撑不住了...
+				Description: 肾虚有些撑不住了……
 			}
-
-			FlawlessChrysalisEndBuff: {
+			FlawlessChrysalisEndBuff:{
 				DisplayName: 释放
 				Description: 增加30%攻击速度和伤害
 			}
-
-			FlawlessChrysalisStartBuff: {
+			FlawlessChrysalisStartBuff:{
 				DisplayName: 幻形
 				Description: 你的力量正逐渐变强！
 			}
-
-			FleshFrenzy: {
-				DisplayName: 血肉狂怒
-				Description: 你的觉得很饱且伤害增加10%
+			FleshFrenzy:{
+				DisplayName: 血肉狂潮
+				Description: 你的共生消耗增加了你10%的伤害
 			}
-
-			Freezing: {
+			Freezing:{
 				DisplayName: 冻结
 				Description: 此敌人的移动速度大幅度降低了
 			}
-
-			FrenzyPotionBuff: {
-				DisplayName: Frenzy
-				Description: Your attack speed is increased by 8%
+			FrenzyPotionBuff:{
+				DisplayName: 狂热
+				Description: 你的攻击速度提高8%
 			}
-
-			FullStomach: {
-				DisplayName: Full Stomach
-				Description: You couldn't eat another bite!
+			FullStomach:{
+				DisplayName: 饱腹
+				Description: 你不能再吃一口了！
 			}
-
-			FungalGrowth: {
-				DisplayName: Fungal Growth
-				Description: This target is infested with mycelium
+			FungalGrowth:{
+				DisplayName: 真菌增殖
+				Description: 这个目标布满了菌丝
 			}
-
-			GhastlyCarapaceBuff: {
-				DisplayName: Ghastly Soul
-				Description: Taking fatal damage will return you home
+			GhastlyCarapaceBuff:{
+				DisplayName: 可怖灵魂
+				Description: 遭受致命伤害会让你回家
 			}
-
-			GorgonCoatingBuff: {
-				DisplayName: Thrown Weapon Imbue : Gorgon Juice
-				Description: Throwing damage has a chance to petrify hit enemies
+			GorgonCoatingBuff:{
+				DisplayName: 投掷武器涂层:石化
+				Description: 投掷伤害有机会石化击中的敌人
 			}
-
-			Gouge: {
-				DisplayName: Gouge
-				Description: Rapidly losing life
+			Gouge:{
+				DisplayName: 凿
+				Description: 迅速失去生命
 			}
-
-			GraniteSurge: {
-				DisplayName: Granite Surge
-				Description: Taking 5% more damage from all sources and damage over time
+			GraniteSurge:{
+				DisplayName: 花岗岩能量涌动
+				Description: 持续时间内，受到所有来源的伤害增加5%
 			}
-
-			GraveLimbDebuff: {
-				DisplayName: Cryptic Grasp
-				Description: It's on your face! Aaauggh!
+			GraveLimbDebuff:{
+				DisplayName: 神秘之握
+				Description: 就在你脸上！哦不！
 			}
-
-			AltarBuff: {
-				DisplayName: Spiritual Connection
-				Description: Your healing spells will heal an additional life
+			AltarBuff:{
+				DisplayName: 精神连接
+				Description: 你的治疗法术将治疗额外的生命
 			}
-
-			AuraDamageReduction: {
-				DisplayName: Aura : Damage Reduction
-				Description: Your ally is increasing your damage reduction by 12%
+			AuraDamageReduction:{
+				DisplayName: 光环:减少伤害
+				Description: 你的盟友正在增加你12%的伤害减免
 			}
-
-			BeltoftheQuickResponseBuff: {
-				DisplayName: Speed Burst
-				Description: Healing an ally has increased your movement and healing speed
+			BeltoftheQuickResponseBuff:{
+				DisplayName: 速度突发
+				Description: 治疗盟友增加你的移动和治疗速度
 			}
-
-			BloodBoost: {
-				DisplayName: Blood Boost
-				Description: An ally is augmenting your on-hit effects
+			BloodBoost:{
+				DisplayName: 血液增强
+				Description: 盟友正在增强你的命中效果
 			}
-
-			BloomBoost: {
-				DisplayName: Bloom Boost
-				Description: You are recovering life and have increased defense
+			BloomBoost:{
+				DisplayName: 光华增强
+				Description: 你正在回复生命，防御力增强
 			}
-
-			BloomingSetBuff: {
-				DisplayName: Overgrowth
-				Description: Your life recovery and life recovery rate have been increased
+			BloomingSetBuff:{
+				DisplayName: 过度生长
+				Description: 你的生命回复和生命回复率已提高
 			}
-
-			BubbleBulwarkWandBuff: {
-				DisplayName: Bulwark Bubble
-				Description: The next attack against you deals 0 damage
+			BubbleBulwarkWandBuff:{
+				DisplayName: 泡沫防壁
+				Description: 对你的下一次攻击造成0点伤害
 			}
-
-			CelestialSetAllyBuff: {
-				DisplayName: Aura : Holy Shine
-				Description: Your offensive and defensive attributes are increased greatly
+			CelestialSetAllyBuff:{
+				DisplayName: 光环:神圣光芒
+				Description: 你的攻防属性大大提高
 			}
-
-			CelestialSetDebuff: {
-				DisplayName: Holy Aura
-				Description: A protective aura surrounds your cursor
+			CelestialSetDebuff:{
+				DisplayName: 圣洁灵光
+				Description: 光标周围的保护光环
 			}
-
-			CosmicFluxStaffDamageBuff: {
-				DisplayName: Radiant Nova
-				Description: Radiant damage increased by 25%
+			CosmicFluxStaffDamageBuff:{
+				DisplayName: 范围新星
+				Description: 范围伤害提高25%
 			}
-
-			CosmicFluxStaffHealBuff: {
-				DisplayName: Healing Nova
-				Description: Healing spells will heal an additional 2 life
+			CosmicFluxStaffHealBuff:{
+				DisplayName: 治疗新星
+				Description: 治疗法术将额外治疗2生命值
 			}
-
-			CrystalWishBuff: {
-				DisplayName: Crystal Wish
-				Description: Your ally has increased your damage reduction by 10%
+			CrystalWishBuff:{
+				DisplayName: 水晶祝愿
+				Description: 你的盟友增加了你10%的伤害减免
 			}
-
-			Cured: {
-				DisplayName: Cured
-				Description: Granted damage inflicting debuff immunity and life recovery
+			Cured:{
+				DisplayName: 已治疗
+				Description: 给予对造成伤害的debuff免疫和生命回复
 			}
-
-			DarkContagionDebuff: {
-				DisplayName: Dark Contagion
-				Description: Afflicted with a contagious, dark curse
+			DarkContagionDebuff:{
+				DisplayName: 暗疫
+				Description: 被传染性的黑暗诅咒折磨
 			}
-
-			DarkEffigyBuff: {
-				DisplayName: Effigy's Expense
-				Description: Enemies afflicted with dark energy are healing you
+			DarkEffigyBuff:{
+				DisplayName: 埃菲吉的费用
+				Description: 被黑暗能量折磨的敌人正在治疗你
 			}
-
-			DistortedTimeBoost: {
-				DisplayName: Distorted Time
-				Description: The flow of time is being heavily influenced
+			DistortedTimeBoost:{
+				DisplayName: 扭曲的时间
+				Description: 时间流动受到严重影响
 			}
-
-			DistortedTimeEnemy: {
-				DisplayName: Distorted Time
-				Description: Time is slowing this enemy down
+			DistortedTimeEnemy:{
+				DisplayName: 扭曲的时间
+				Description: 时间在减缓敌人的速度
 			}
-
-			DragonHeartWandBuff: {
-				DisplayName: Dragon Heart
-				Description: Damage increased by 15%
+			DragonHeartWandBuff:{
+				DisplayName: 龙之心
+				Description: 伤害提高15%
 			}
-
-			DreamCatcherBuff: {
-				DisplayName: Dream Catcher
-				Description: Taking fatal damage will instead return you to max life
+			DreamCatcherBuff:{
+				DisplayName: 追梦人
+				Description: 受到致命伤害反而会让你回复最大生命
 			}
-
-			DreamMegaphoneBuff: {
-				DisplayName: Dream Megaphone
-				Description: Damage increased by 20%
+			DreamMegaphoneBuff:{
+				DisplayName: 梦幻扩音器
+				Description: 伤害提高20%
 			}
-
-			DreamMegaphoneDebuff: {
-				DisplayName: Dream Megaphone
-				Description: Taking 40% more damage
+			DreamMegaphoneDebuff:{
+				DisplayName: 梦幻扩音器
+				Description: 承受多40%的伤害
 			}
-
-			DreamWeaversHoodDebuff: {
-				DisplayName: Awake
-				Description: Cannot enter the dream...
+			DreamWeaversHoodDebuff:{
+				DisplayName: 唤醒
+				Description: 无法进入梦境……
 			}
-
-			DreamWeaversHoodDreamAllyBuff: {
-				DisplayName: Dreaming
-				Description: Immune to most damage and debuffs
+			DreamWeaversHoodDreamAllyBuff:{
+				DisplayName: 做梦
+				Description: 免疫大多数伤害和状态效果减值
 			}
-
-			DreamWeaversHoodDreamBuff: {
-				DisplayName: The Dream
-				Description: The world is a lucid reality...
+			DreamWeaversHoodDreamBuff:{
+				DisplayName: 梦
+				Description: 世界是一个清晰的现实……
 			}
-
-			DreamWeaversMaskBuff: {
-				DisplayName: Distorted Reality
-				Description: The flow of time is being heavily influenced
+			DreamWeaversMaskBuff:{
+				DisplayName: 扭曲的现实
+				Description: 时间流动受到严重影响
 			}
-
-			DreamWeaversMaskDebuff: {
-				DisplayName: Rebound
-				Description: Time is attempting to catch up with itself
+			DreamWeaversMaskDebuff:{
+				DisplayName: 反弹
+				Description: 时间在努力追赶自己
 			}
-
-			Enfeeble: {
-				DisplayName: Enfeeble
-				Description: Taking 10 additional damage from radiant attacks
+			Enfeeble:{
+				DisplayName: 衰弱
+				Description: 范围攻击造成10点额外伤害
 			}
-
-			ForgottenCrossNecklaceBuff: {
-				DisplayName: Holy Defense
-				Description: Your defense has been increased by 14
+			ForgottenCrossNecklaceBuff:{
+				DisplayName: 神圣防御
+				Description: 你的防御提高了14
 			}
-
-			GlowingPotionBuff: {
-				DisplayName: Illustrious Energy
-				Description: Radiant damage increased by 10%
+			GlowingPotionBuff:{
+				DisplayName: 光辉能量
+				Description: 范围伤害提高10%
 			}
-
-			HolyGlare: {
-				DisplayName: Holy Glare
-				Description: Holy light purges the unclean!
+			HolyGlare:{
+				DisplayName: 神圣光芒
+				Description: 圣光净化不洁！
 			}
-
-			HolyPotionBuff: {
-				DisplayName: Holy Power
-				Description: Healing spells will heal an additional life
+			HolyPotionBuff:{
+				DisplayName: 神圣力量
+				Description: 治疗法术将治疗额外的生命
 			}
-
-			KarmicHolderBuff: {
-				DisplayName: Karmic Convergence
-				Description: Radiant damage increased
+			KarmicHolderBuff:{
+				DisplayName: 命运趋同
+				Description: 范围伤害增加
 			}
-
-			Liberated: {
-				DisplayName: Liberated
-				Description: Immune to most damage and debuffs
+			Liberated:{
+				DisplayName: 解脱
+				Description: 免疫大多数伤害和状态效果减值
 			}
-
-			LifeBinderSetBuff: {
+			LifeBinderSetBuff:
+			{
 				DisplayName: Mist Fueled Bulwark
 				Description: Your maximum life has been increased by 50
 			}
-
-			LifeQuartzShieldBuff: {
+			LifeQuartzShieldBuff:
+			{
 				DisplayName: Rose-Colored Bubble
 				Description: A mysterious power is protecting and healing you
 			}
-
-			LifeQuartzShieldDebuff: {
+			LifeQuartzShieldDebuff:
+			{
 				DisplayName: Popped Bubble
-				Description: Your bubble is recharging...
+				Description: Your bubble is recharging……
 			}
-
-			LifeRecovery: {
-				DisplayName: Life Recovery
-				Description: Recovering life over time
+			LifeRecovery:{
+				DisplayName: 生命回复
+				Description: 随时间回复生命
 			}
-
-			LifeSpiritBuff: {
-				DisplayName: Life Spirit
-				Description: It's too bright to look at directly
+			LifeSpiritBuff:{
+				DisplayName: 生命精神
+				Description: 它太亮了，无法直视
 			}
-
-			LilCherubsWandBuff: {
+			LilCherubsWandBuff:
+			{
 				DisplayName: Lil' Cherub
-				Description: From your shoulder to the back line!
+				Description: From your shoulder to the back line！
 			}
-
-			LilDevilsWandBuff: {
+			LilDevilsWandBuff:
+			{
 				DisplayName: Lil' Devil
-				Description: From your shoulder to the front line!
+				Description: From your shoulder to the front line！
 			}
-
-			MarrowScepterBuff: {
+			MarrowScepterBuff:
+			{
 				DisplayName: Bone Armor
 				Description: Damage reduction increased by 15%
 			}
-
-			Mortality: {
-				DisplayName: Mortality
-				Description: Damage reduction, damage, and movement speed decreased
+			Mortality:{
+				DisplayName: 死亡率
+				Description: 伤害降低，伤害和移动速度降低
 			}
-
-			NullZoneBuff: {
-				DisplayName: Null-Zone
-				Description: Projectile damage taken reduced by 20%
+			NullZoneBuff:{
+				DisplayName: 空区
+				Description: 弹丸伤害降低20%
 			}
-
-			OutofTouch: {
+			OutofTouch:
+			{
 				DisplayName: Out of Touch
 				Description: Your bonus healing is only 33% as effective
 			}
-
-			PhoenixStaffBuff: {
+			PhoenixStaffBuff:
+			{
 				DisplayName: Phoenix
 				Description: A majestic creature looks over you and your allies
 			}
-
-			ProtectiveEnergy: {
+			ProtectiveEnergy:
+			{
 				DisplayName: Protective Energy
 				Description: Damage reduction increased by 5%
 			}
-
-			QuickRecovery: {
-				DisplayName: Quick Recovery
-				Description: Life recovery rate increased by 20%
+			QuickRecovery:{
+				DisplayName: 快速回复
+				Description: 生命回复率提高20%
 			}
-
-			SerpentsBubbleWandBuff: {
+			SerpentsBubbleWandBuff:
+			{
 				DisplayName: Serpent's Bubble
 				Description: Life recovery increased and damage reduction increased by 10%
 			}
-
-			ShieldDroneBeaconBuff: {
+			ShieldDroneBeaconBuff:
+			{
 				DisplayName: Shield Drone
-				Description: From your shoulder to the side lines!
+				Description: From your shoulder to the side lines！
 			}
-
-			SmitingHammerDebuff: {
+			SmitingHammerDebuff:
+			{
 				DisplayName: Smiting Fire
 				Description: Taking damage over time
 			}
-
-			SoulEssence: {
-				DisplayName: Soul Essence
+			SoulEssence:{
+				DisplayName: 灵魂精华
 				Description: Mods.ThoriumMod.Buffs.SoulEssence.Description
 			}
-
-			SpiritualistBuff: {
+			SpiritualistBuff:
+			{
 				DisplayName: Guardian Angel
 				Description: The Spiritualist is protecting you from fatal damage
 			}
-
-			SpiritualistProtectionBuff: {
+			SpiritualistProtectionBuff:
+			{
 				DisplayName: Guardian : Protection
 				Description: Damage reduction increased by 30%
 			}
-
-			SpiritualistRecoveryBuff: {
+			SpiritualistRecoveryBuff:
+			{
 				DisplayName: Guardian : Recovery
 				Description: Life regeneration increased greatly
 			}
-
-			SpiritualistRevengeBuff: {
+			SpiritualistRevengeBuff:
+			{
 				DisplayName: Guardian : Revenge
 				Description: Damage increased by 15%
 			}
-
-			SupportSashBuff: {
-				DisplayName: Support Sash
-				Description: Your healing spells will heal an additional life
+			SupportSashBuff:{
+				DisplayName: 支撑窗
+				Description: 你的治疗法术将治疗额外的生命
 			}
-
-			TemplarSetBuff: {
+			TemplarSetBuff:
+			{
 				DisplayName: Healing Mastery
 				Description: Mana regeneration, healing bonus, and healing speed increased
 			}
-
-			VerdantOrnamentBuff: {
+			VerdantOrnamentBuff:
+			{
 				DisplayName: Tangy Heal
 				Description: Life regeneration rate increased
 			}
-
-			WhisperingDaggerBuff: {
+			WhisperingDaggerBuff:
+			{
 				DisplayName: Consuming Whispers
 				Description: Power comes at a cost
 			}
-
-			HoneyRecorderDebuff: {
+			HoneyRecorderDebuff:
+			{
 				DisplayName: Honey
-				Description: Bees just LOVE honey...
+				Description: Bees just LOVE honey……
 			}
-
-			HydrationBuff: {
-				DisplayName: Hydration
-				Description: Your exhaustion and technique points are regenerating faster
+			HydrationBuff:{
+				DisplayName: 水合作用
+				Description: 你的疲惫和秘技点回复得更快
 			}
-
-			IlluminatedNPC: {
-				DisplayName: Illuminated
-				Description: This revealed enemy is taking 10% more damage
+			IlluminatedNPC:{
+				DisplayName: 照亮
+				Description: 这个暴露的敌人将多受到10%的伤害
 			}
-
-			IncandescentSparkDebuff: {
+			IncandescentSparkDebuff:
+			{
 				DisplayName: Incandescent Burn
 				Description: Losing life
 			}
-
-			Insanity: {
-				DisplayName: Insanity
-				Description: Dealing damage to nearby enemies
+			Insanity:{
+				DisplayName: 精神失常
+				Description: 对附近的敌人造成伤害
 			}
-
-			InsectRepellentBuff: {
-				DisplayName: Repellent : Insects
-				Description: Most insects will become friendly to you
+			InsectRepellentBuff:{
+				DisplayName: 驱避剂:昆虫
+				Description: 大多数昆虫会对你友好
 			}
-
-			JellyBuff: {
+			JellyBuff:
+			{
 				DisplayName: Tasty Jelly
 				Description: Life regeneration increased greatly
 			}
-
-			KineticPotionBuff: {
+			KineticPotionBuff:
+			{
 				DisplayName: Kinetic Storage
 				Description: Allows you to double tap to dash
 			}
-
-			LegacyDebuff: {
+			LegacyDebuff:
+			{
 				DisplayName: Legacy Burn
 				Description: If this enemy dies, damaging energy will be released
 			}
-
-			LichSetBuff: {
+			LichSetBuff:
+			{
 				DisplayName: Soul Harvest
 				Description: Your movement and throwing speed are greatly enhanced
 			}
-
-			LifeTransfusion: {
-				DisplayName: Life Transfusion
-				Description: Life regeneration is nullified
+			LifeTransfusion:{
+				DisplayName: 生命输血
+				Description: 生命再生无效
 			}
-
-			LifeWaterBuff: {
+			LifeWaterBuff:
+			{
 				DisplayName: Life Water's Gift
 				Description: Maximum life & life regeneration increased
 			}
-
-			LightCurse: {
-				DisplayName: Light Curse
-				Description: Pure darkness is melting this enemy
+			LightCurse:{
+				DisplayName: 光之诅咒
+				Description: 纯粹的黑暗正在融化这个敌人
 			}
-
-			Liquefied: {
-				DisplayName: Liquefied
-				Description: Defense and movement speed decreased
+			Liquefied:{
+				DisplayName: 液化的
+				Description: 防御和移动速度降低
 			}
-
-			MagickStaffDebuff: {
-				DisplayName: Elemental Decay
-				Description: Sundered by the lesser elements of Terraria
+			MagickStaffDebuff:{
+				DisplayName: 元素衰变
+				Description: 被泰拉瑞亚的小元素打破
 			}
-
-			MasterMarksmansScouterDebuff: {
+			MasterMarksmansScouterDebuff:
+			{
 				DisplayName: Omni Vision
 				Description: This enemy is within an assassin's sight
 			}
-
-			MidnightOilBuff: {
+			MidnightOilBuff:
+			{
 				DisplayName: Midnight Oil
 				Description: Enemies aren't as interested in you
 			}
-
-			MirroroftheBeholderDebuff: {
+			MirroroftheBeholderDebuff:
+			{
 				DisplayName: Revealed
 				Description: This revealed enemy is taking 15% more damage
 			}
-
-			MistletoeBuff: {
+			MistletoeBuff:
+			{
 				DisplayName: Season's Greeting
 				Description: Life, mana, and inspiration regeneration increased
 			}
-
-			AmphibianEggBuff: {
+			AmphibianEggBuff:
+			{
 				DisplayName: Frog
 				Description: You've transformed into a jumpy frog
 			}
-
-			ColeopteraKeepsakeBuff: {
+			ColeopteraKeepsakeBuff:
+			{
 				DisplayName: Beetle
 				Description: You've transformed into a beetle capable of flight
 			}
-
-			CrackedBattleHornBuff: {
+			CrackedBattleHornBuff:
+			{
 				DisplayName: Battle Warg
-				Description: Charge into battle upon your ebony warg!
+				Description: Charge into battle upon your ebony warg！
 			}
-
-			CyberneticSphereBuff: {
+			CyberneticSphereBuff:
+			{
 				DisplayName: Cybernetic Sphere
-				Description: Spherical!
+				Description: Spherical！
 			}
-
-			DesecratedHeartBuff: {
+			DesecratedHeartBuff:
+			{
 				DisplayName: Starving Beast
 				Description: This beast slobbers in endless hunger
 			}
-
-			FakeCoinBuff: {
+			FakeCoinBuff:
+			{
 				DisplayName: Mimic
 				Description: You've transformed into a chest mimic
 			}
-
-			GoldenScaleBuff: {
+			GoldenScaleBuff:
+			{
 				DisplayName: Goldfish
 				Description: You've got gills and a great cracker taste
 			}
-
-			HowToSpeakWhaleABiographyBuff: {
+			HowToSpeakWhaleABiographyBuff:
+			{
 				DisplayName: The Whale
-				Description: Was it really worth it?
+				Description: Was it really worth it？
 			}
-
-			MagmaCharmBuff: {
+			MagmaCharmBuff:
+			{
 				DisplayName: Molten Tardigrade
 				Description: You've transformed into a small, fiery tardigrade
 			}
-
-			MassiveCrabClawBuff: {
+			MassiveCrabClawBuff:
+			{
 				DisplayName: Enemy Crab
-				Description: Aquatic dwellers beware!
+				Description: Aquatic dwellers beware！
 			}
-
-			MediumRareSteakBuff: {
+			MediumRareSteakBuff:
+			{
 				DisplayName: Angry Dragon
-				Description: Try to ignore the smell of smoke...
+				Description: Try to ignore the smell of smoke……
 			}
-
 			AquamarineMinecartBuff.DisplayName: Aquamarine Minecart
-
-			BathtubCartBuff: {
+			BathtubCartBuff:
+			{
 				DisplayName: Bathtub Cart
-				Description: Wash yourself on the move!
+				Description: Wash yourself on the move！
 			}
-
 			OpalMinecartBuff.DisplayName: Opal Minecart
-
-			RocketCartBuff: {
+			RocketCartBuff:
+			{
 				DisplayName: Rocket Cart
-				Description: There is no way this thing is safe...
+				Description: There is no way this thing is safe……
 			}
-
-			MoltenCollarBuff: {
+			MoltenCollarBuff:
+			{
 				DisplayName: Infernal Hound
-				Description: Run with the fury of Hell!
+				Description: Run with the fury of Hell！
 			}
-
-			NimbusBuff: {
+			NimbusBuff:
+			{
 				DisplayName: Wyvern
-				Description: Feel the wind in your hair!
+				Description: Feel the wind in your hair！
 			}
-
-			OldDebt: {
-				DisplayName: Familiar Face
-				Description: An old debt is being repaid... Now save the world!
+			OldDebt:{
+				DisplayName: 旧债
+				Description: 一笔旧债正在偿还……现在拯救世界！
 			}
-
-			OtherworldlyRuneBuff: {
+			OtherworldlyRuneBuff:
+			{
 				DisplayName: Apocalypse
-				Description: You bring the end of the world...
+				Description: You bring the end of the world……
 			}
-
-			SinisterAcornBuff: {
+			SinisterAcornBuff:
+			{
 				DisplayName: Squirrel
 				Description: You've transformed into a little squirrel
 			}
-
-			SpectralFangBuff: {
-				DisplayName: Spectral Tiger
-				Description: Even in death, it's a loyal companion
+			SpectralFangBuff:{
+				DisplayName: 幽魂虎
+				Description: 即使在死亡中，它也是忠诚的伴侣
 			}
-
-			SuperAnvilBuff: {
-				DisplayName: Super Anvil
-				Description: Heavier than the weight of your responsibilities
+			SuperAnvilBuff:{
+				DisplayName: 超级铁砧
+				Description: 比你的责任更重
 			}
-
-			TomeoftheVoidGazersChariotBuff: {
+			TomeoftheVoidGazersChariotBuff:
+			{
 				DisplayName: Void Chariot
-				Description: Who knew it was tameable?
+				Description: Who knew it was tameable？
 			}
-
-			VampireCatalystBuff: {
+			VampireCatalystBuff:
+			{
 				DisplayName: Vampire's Gift
-				Description: You've transformed into a flying bat!
+				Description: You've transformed into a flying bat！
 			}
-
-			MyceliumVeins: {
-				DisplayName: Mycelium Veins
-				Description: Throwing speed increased by 10%
+			MyceliumVeins:{
+				DisplayName: 菌丝体静脉
+				Description: 投掷速度提高10%
 			}
-
-			NapalmDebuff: {
+			NapalmDebuff:
+			{
 				DisplayName: Napalm
-				Description: The heat is indescribable...
+				Description: The heat is indescribable……
 			}
-
-			NecroticSkullBuff: {
-				DisplayName: Necrotic Skull
-				Description: Minions are dealing 2 more damage
+			NecroticSkullBuff:{
+				DisplayName: 坏死的头骨
+				Description: 仆从多造成2点伤害
 			}
-
-			NinjaBuff: {
-				DisplayName: Sleight of Hand
-				Description: Throwing velocity, speed, and critical strike chance increased
+			NinjaBuff:{
+				DisplayName: 手的旋转
+				Description: 投掷速度、速度和暴击几率增加
 			}
-
-			EnragedBuff: {
+			EnragedBuff:
+			{
 				DisplayName: Enraged
 				Description: This enemy is dealing 15% more contact damage
 			}
-
-			SeaShantySingerBuff: {
+			SeaShantySingerBuff:
+			{
 				DisplayName: Quick-Fire
 				Description: This enemy is shooting faster than normal
 			}
-
-			SnowSingaBuff: {
+			SnowSingaBuff:
+			{
 				DisplayName: Regeneration
 				Description: This enemy is recovering life
 			}
-
-			OceansBuffer: {
-				DisplayName: Oceans Buffer
-				Description: Turning all damage into healing
+			OceansBuffer:{
+				DisplayName: 海洋缓冲
+				Description: 将所有伤害转化为治疗
 			}
-
-			OceansBufferExhaust: {
-				DisplayName: Exhaustion: Ocean's Buffer
-				Description: Your ocean buffer is currently on cooldown
+			OceansBufferExhaust:{
+				DisplayName: 疲惫:海洋缓冲
+				Description: 你的海洋缓冲目前正在冷却
 			}
-
-			Oozed: {
-				DisplayName: Oozed
-				Description: Movement speed significantly reduced
+			Oozed:{
+				DisplayName: 渗出
+				Description: 移动速度显著降低
 			}
-
-			Paralyzed: {
-				DisplayName: Paralyzed
-				Description: The enemy can't move very briefly!
+			Paralyzed:{
+				DisplayName: 瘫痪的
+				Description: 敌人不能快速移动！
 			}
-
-			PearlPikeBuff: {
+			PearlPikeBuff:
+			{
 				DisplayName: Grace
 				Description: Your ability to move got better
 			}
-
-			AbyssalWhistleBuff: {
-				DisplayName: Abyssal Bunny
-				Description: This poor guy might be the last of his kind...
+			AbyssalWhistleBuff:{
+				DisplayName: 深渊兔子
+				Description: 这个可怜的家伙可能是最后一个……
 			}
-
-			AlienResearchNotesBuff: {
-				DisplayName: Research Probe
-				Description: Critters beware...
+			AlienResearchNotesBuff:{
+				DisplayName: 研究探头
+				Description: 傻小子当心……
 			}
-
-			AmnesiacBuff: {
-				DisplayName: Amnesiac Girl
-				Description: Don't let her stray too far!
+			AmnesiacBuff:{
+				DisplayName: 失忆女孩
+				Description: 不要让她走得太远！
 			}
-
-			AncientRatBuff: {
-				DisplayName: Ancient Rat
-				Description: The rat is ancient too? Yep!
+			AncientRatBuff:{
+				DisplayName: 远古老鼠
+				Description: 老鼠也很古老？是的！
 			}
-
-			AnglerBowlBuff: {
-				DisplayName: Anglor the little Angler
-				Description: This little guy just HATES the dark
+			AnglerBowlBuff:{
+				DisplayName: 小渔夫安格勒
+				Description: 这个小家伙讨厌黑暗
 			}
-
-			BalloonBallBuff: {
-				DisplayName: Tanuki Girl
-				Description: Don't let her stray too far!
+			BalloonBallBuff:{
+				DisplayName: 狸猫女孩
+				Description: 不要让她走得太远！
 			}
-
-			BioFeederBuff: {
-				DisplayName: Bio-Feeder
-				Description: What a strange little creature...
+			BioFeederBuff:{
+				DisplayName: 生物喂食器
+				Description: 多么奇怪的小生物……
 			}
-
-			BlisterBuff: {
-				DisplayName: Flying Blister
-				Description: It won't leave you alone!
+			BlisterBuff:{
+				DisplayName: 水疱
+				Description: 它不会让你孤单！
 			}
-
-			BloodSausageBuff: {
-				DisplayName: Blood Sausage
-				Description: One too many treats it seems...
+			BloodSausageBuff:{
+				DisplayName: 血肠
+				Description: 似乎有太多的款待……
 			}
-
-			ChaoticMarbleBuff: {
-				DisplayName: Chaotic Creature
-				Description: He's cute, but where did he come from...?
+			ChaoticMarbleBuff:{
+				DisplayName: 混沌生物
+				Description: 他很可爱，但他是从哪里来的……
 			}
-
-			ClownfishPetBuff: {
-				DisplayName: Clownfish
-				Description: Don't laugh at him...
+			ClownfishPetBuff:{
+				DisplayName: 小丑鱼
+				Description: 别嘲笑他……
 			}
-
-			DavyJonesLockBoxBuff: {
+			DavyJonesLockBoxBuff:
+			{
 				DisplayName: Davy Jones' Lock Box
-				Description: Full of an endless amount of coins!
+				Description: Full of an endless amount of coins！
 			}
-
-			DemosGuidanceBuff: {
-				DisplayName: Restorative Lantern
-				Description: It's constantly emanating a comforting aura
+			DemosGuidanceBuff:{
+				DisplayName: 回复灯笼
+				Description: 它不断散发出令人感到安慰的光环
 			}
-
-			DiscardedClothBuff: {
-				DisplayName: Cloth Geist
-				Description: Little ghost. Little pumpkins.
+			DiscardedClothBuff:{
+				DisplayName: 布盖斯特
+				Description: 小幽灵。小南瓜。
 			}
-
-			DiverPlushieBuff: {
-				DisplayName: Princess Jellyfish
-				Description: At least this one can't eat you!
+			DiverPlushieBuff:{
+				DisplayName: 海月姬
+				Description: 至少这个不能你！
 			}
-
-			DoomSayersPennyBuff: {
-				DisplayName: Doom Sayer's Penny
-				Description: At least it's over, right?
+			DoomSayersPennyBuff:{
+				DisplayName: 末日预言家的硬币
+				Description: 至少已经结束了，对吧？
 			}
-
-			DrachmaBuff: {
-				DisplayName: Curious Coinling
-				Description: Drachmas don't have much use nowadays...
+			DrachmaBuff:{
+				DisplayName: 好奇的硬币
+				Description: 德拉克马现在用处不大……
 			}
-
-			EmptyWormholePotionBuff: {
-				DisplayName: Useless Friend
-				Description: Ugh... They're not even helping me fight!
+			EmptyWormholePotionBuff:{
+				DisplayName: 无用的朋友
+				Description: 呃……他们甚至都不帮我打架！
 			}
-
-			EnergizedQuadCubeBuff: {
-				DisplayName: Energized Quad-Cube
-				Description: Boom, tetris for GES!
+			EnergizedQuadCubeBuff:{
+				DisplayName: 通电方形立方体
+				Description: 轰，GES的俄罗斯方块！
 			}
-
-			ExoticMynaEggBuff: {
+			ExoticMynaEggBuff:
+			{
 				DisplayName: Exotic Myna
-				Description: A very special baby bird likes you!
+				Description: A very special baby bird likes you！
 			}
-
-			Experiment3Buff: {
-				DisplayName: Experiment #3
-				Description: Just be glad it's not an adult yet...
+			Experiment3Buff:{
+				DisplayName: “实验#3”
+				Description: 只是庆幸它还没有成年……
 			}
-
-			FerretBuff: {
-				DisplayName: Ferret
-				Description: This little guy just loves to wiggle!
+			FerretBuff:{
+				DisplayName: 雪貂
+				Description: 这个小家伙就是喜欢摇摆！
 			}
-
-			FrozenBalloonBuff: {
-				DisplayName: Frozen Balloon
-				Description: Impervious to sharp attacks and darts apparently
+			FrozenBalloonBuff:{
+				DisplayName: 冷冻气球
+				Description: 明显不易受到尖锐攻击和飞镖
 			}
-
-			GlassShardBuff: {
-				DisplayName: Glass Shard
-				Description: You swear you saw a smirk inside that glass...
+			GlassShardBuff:{
+				DisplayName: 玻璃碎片
+				Description: 你发誓你看到杯子里有人傻笑……
 			}
-
-			HolyGoatBuff: {
-				DisplayName: The Holy Goat
-				Description: It's got a golden glow, so it must be nice!
+			HolyGoatBuff:{
+				DisplayName: 圣山羊
+				Description: 它有金色的光芒，所以一定很漂亮！
 			}
-
-			LilMogBuff: {
-				DisplayName: Lil' Mog
-				Description: He's a cute little guy, ain't he?
+			LilMogBuff:{
+				DisplayName: 小猫
+				Description: 他是个可爱的小家伙，不是吗？
 			}
-
-			LittlePhylacteryBuff: {
-				DisplayName: Lil' Necromancer
-				Description: This small guy is way stronger than he looks...
+			LittlePhylacteryBuff:{
+				DisplayName: 小死灵法师
+				Description: 这个小家伙比看起来强壮多了……
 			}
-
-			MaidBuff: {
-				DisplayName: Lil' Maid
-				Description: There really isn't much to clean...
+			MaidBuff:{
+				DisplayName: 小女仆
+				Description: 真的没什么好清理的……
 			}
-
-			ModelGunBuff: {
-				DisplayName: Lyrist
-				Description: A silent lyrist watches your back
+			ModelGunBuff:{
+				DisplayName: 作词人
+				Description: 一个沉默的作词人注视着你的背影
 			}
-
-			OmegaBuff: {
-				DisplayName: Omega Drive
-				Description: Vaporizing Matrix : Online
+			OmegaBuff:{
+				DisplayName: 欧米茄驱动器
+				Description: 汽化矩阵:在线
 			}
-
-			PartridgeBuff: {
-				DisplayName: Partridge
-				Description: A partridge is following you
+			PartridgeBuff:{
+				DisplayName: 山鹑
+				Description: 一只鹧鸪在跟踪你
 			}
-
-			PickleBuff: {
-				DisplayName: Totally Normal Dog
-				Description: or is it...?
+			PickleBuff:{
+				DisplayName: 完全正常的狗
+				Description: 还是它……
 			}
-
-			PinkSlimeBuff: {
-				DisplayName: Pink Slime
-				Description: It's so pretty!
+			PinkSlimeBuff:{
+				DisplayName: 粉色史莱姆
+				Description: 太漂亮了！
 			}
-
-			RottenMeatBuff: {
-				DisplayName: Fly
-				Description: He loves carnage!
+			RottenMeatBuff:{
+				DisplayName: 飞
+				Description: 他喜欢屠杀！
 			}
-
-			SkunkBuff: {
-				DisplayName: Skunk
-				Description: Don't startle him, or you'll regret it...
+			SkunkBuff:{
+				DisplayName: 臭鼬
+				Description: 别吓他，否则你会后悔的……
 			}
-
-			SnowyOwlBuff: {
-				DisplayName: Lost Snowy Owl
-				Description: Looks like someone isn't getting their mail...
+			SnowyOwlBuff:{
+				DisplayName: 迷路的雪鸮
+				Description: 看起来有人没有收到邮件……
 			}
-
-			StormCloudBuff: {
-				DisplayName: Storm Cloud
-				Description: We needed this rain...
+			StormCloudBuff:{
+				DisplayName: 风暴云
+				Description: 我们需要这场雨……
 			}
-
-			SubterraneanAnglerBuff: {
-				DisplayName: Subterranean Angler
-				Description: It may look nasty, but it likes you!
+			SubterraneanAnglerBuff:{
+				DisplayName: 地下钓鱼者
+				Description: 它可能看起来很讨厌，但它喜欢你！
 			}
-
-			SuspiciousMoisturizerBottleBuff: {
-				DisplayName: Living Hand
-				Description: Let's give them a hand, folks!
+			SuspiciousMoisturizerBottleBuff:{
+				DisplayName: 活生生的手
+				Description: 让我们帮他们一把，伙计们！
 			}
-
-			SweetBeetBuff: {
-				DisplayName: Beet Cookie
-				Description: Where ever you run, they'll follow
+			SweetBeetBuff:{
+				DisplayName: 甜菜饼干
+				Description: 无论你跑到哪里，他们都会跟着你
 			}
-
-			SwordOfDestinyBuff: {
-				DisplayName: Sword of Destiny
-				Description: Don't look up...
+			SwordOfDestinyBuff:{
+				DisplayName: 命运之剑
+				Description: 不要抬头……
 			}
-
-			TentacleBallBuff: {
-				DisplayName: Tentacle Ball
-				Description: Where do the tentacles end and the body begin?
+			TentacleBallBuff:{
+				DisplayName: 触手球
+				Description: 触手从哪里开始，身体从哪里开始？
 			}
-
-			TortleScuteBuff: {
-				DisplayName: Tortle Sage
-				Description: He's wise beyond his years
+			TortleScuteBuff:{
+				DisplayName: 火炬鼠尾草
+				Description: 他聪明过人
 			}
-
-			WhisperingShellBuff: {
-				DisplayName: Whispering Shell
-				Description: It feels like something is watching you...
+			WhisperingShellBuff:{
+				DisplayName: 低语的贝壳
+				Description: 感觉好像有东西在看着你……
 			}
-
-			WyvernPetBuff: {
-				DisplayName: Wyvern Pup
-				Description: He may be young, but he gives it his all!
+			WyvernPetBuff:{
+				DisplayName: 飞龙幼崽
+				Description: 他可能很年轻，但他全力以赴！
 			}
-
-			Petrify: {
-				DisplayName: Petrify
-				Description: This enemy is petrified!
+			Petrify:{
+				DisplayName: 石化
+				Description: 这个敌人被石化了！
 			}
-
-			PhylacteryBuff: {
+			PhylacteryBuff:
+			{
 				DisplayName: Lich's Backup
 				Description: Taking fatal damage will instead return you to 25% life
 			}
-
-			PotentExtractBuff: {
+			PotentExtractBuff:
+			{
 				DisplayName: Hallucination
-				Description: Something's not right...
+				Description: Something's not right……
 			}
-
-			PurifiedWaters: {
+			PurifiedWaters:
+			{
 				DisplayName: Purified Waters
 				Description: The Aquatic Depths have been purified, granting you underwater breathing
 			}
-
-			RapierBadgeBuff: {
+			RapierBadgeBuff:
+			{
 				DisplayName: Counter Strike
-				Description: Now is the time to strike!
+				Description: Now is the time to strike！
 			}
-
-			RapierBuff: {
+			RapierBuff:
+			{
 				DisplayName: Parry Stance
 				Description: Damage taken reduced by 10%
 			}
-
-			RealityBearer: {
-				DisplayName: Reality Bearer
-				Description: This world is under your protection. Let no one forget that...
+			RealityBearer:{
+				DisplayName: 现实承载者
+				Description: 这个世界在你的保护下。不要让任何人忘记这一点……
 			}
-
-			RefreshingBubble: {
+			RefreshingBubble:{
 				DisplayName: Refreshing Bubble
-				Description: Inhaling that bubble gave you some extra breath!
+				Description: Inhaling that bubble gave you some extra breath！
 			}
-
-			RevivalExhaustion: {
-				DisplayName: Revival Exhaustion
-				Description: Cannot use most death prevention and revive abilities
+			RevivalExhaustion:{
+				DisplayName: 回复性疲劳
+				Description: 无法使用大多数死亡预防和复活能力
 			}
-
-			SandshroudPouchBuff: {
-				DisplayName: Yoyo Protection
-				Description: Partially protected against the next hit
+			SandshroudPouchBuff:{
+				DisplayName: 悠悠球保护
+				Description: 部分保护以防下一次撞击
 			}
-
-			SandshroudPouchDebuff: {
-				DisplayName: Yoyo Exhaustion
-				Description: Cannot currently receive: Yoyo Protection
+			SandshroudPouchDebuff:{
+				DisplayName: 悠悠球疲惫
+				Description: 当前无法接收:悠悠球保护
 			}
-
-			SchmelzeDebuff: {
-				DisplayName: Schmelze Fury
-				Description: Losing life
+			SchmelzeDebuff:{
+				DisplayName: 熔炼之怒
+				Description: 失去生命
 			}
-
-			SeedofHopeBuff: {
-				DisplayName: Seed of Hope
-				Description: Life recovery and movement speed increased
+			SeedofHopeBuff:{
+				DisplayName: 希望种子
+				Description: 生命回复和移动速度提高
 			}
-
-			ShambleBallDebuff: {
+			ShambleBallDebuff:
+			{
 				DisplayName: Shackled
 				Description: You're shackled to a nearby shambler ball
 			}
-
-			SheathBuff: {
-				DisplayName: Sheath
-				Description: Your equipped sheath is ready to strike
+			SheathBuff:{
+				DisplayName: 剑鞘
+				Description: 你装备的鞘已准备好攻击
 			}
-
-			Singed: {
-				DisplayName: Singed
-				Description: Just received a nasty burn
+			Singed:{
+				DisplayName: 已演唱
+				Description: 刚被严重烧伤
 			}
-
-			SkeletonRepellentBuff: {
-				DisplayName: Repellent : Skeletons
-				Description: Most skeletons will become friendly to you
+			SkeletonRepellentBuff:{
+				DisplayName: 驱避剂:骷髅
+				Description: 大多数骷髅会对你友好
 			}
-
-			SpearmintDebuff: {
+			SpearmintDebuff:
+			{
 				DisplayName: Snake Bite
 				Description: Losing life
 			}
-
-			SpectralBladeBuff: {
+			SpectralBladeBuff:
+			{
 				DisplayName: Mightily Enchanted
 				Description: Your magical abilities are enhanced greatly
 			}
-
-			SpiritsGraceBuff: {
-				DisplayName: Spirit's Grace
-				Description: Take that defeat in stride
+			SpiritsGraceBuff:{
+				DisplayName: 灵魂恩典
+				Description: 从容面对失败
 			}
-
-			SporeCoatingBuff: {
+			SporeCoatingBuff:
+			{
 				DisplayName: Thrown Weapon Imbue : Spores
 				Description: Throwing damage has a chance to infect enemies with mycelium
 			}
-
-			Spored: {
-				DisplayName: Spored
-				Description: If this enemy dies, more spores will be released
+			Spored:{
+				DisplayName: 孢子状的
+				Description: 如果这个敌人死了，会释放更多的孢子
 			}
-
-			Staggered: {
-				DisplayName: Staggered
-				Description: You're too dizzy to jump correctly
+			Staggered:{
+				DisplayName: 交错的
+				Description: 你太晕了，跳不好
 			}
-
-			StrangeSkullDebuff: {
+			StrangeSkullDebuff:
+			{
 				DisplayName: Karma
-				Description: Getting dunked on!
+				Description: Getting dunked on！
 			}
-
-			Stunned: {
-				DisplayName: Stunned
-				Description: The enemy is stunned and can't move
+			Stunned:{
+				DisplayName: 击晕
+				Description: 敌人被击晕了，动弹不得
 			}
-
-			ArsenalStaffBuff: {
-				DisplayName: Arsenal Staff
-				Description: Unleash your arsenal upon your foes
+			ArsenalStaffBuff:{
+				DisplayName: 兵器召唤
+				Description: 向敌人释放你的武器库
 			}
-
-			BannerBounty: {
-				DisplayName: Bounty Banner
-				Description: Nearby minions generate coins when damaging enemies
+			BannerBounty:{
+				DisplayName: 赏金旗帜
+				Description: 附近的仆从在攻击敌人时会生成硬币
 			}
-
-			BannerConfusion: {
-				DisplayName: Hive Mind
-				Description: Nearby minion attacks might confuse enemies
+			BannerConfusion:{
+				DisplayName: 虫巢意志
+				Description: 附近的仆从攻击可能会迷惑敌人
 			}
-
-			BannerDamage: {
-				DisplayName: Battle Banner
-				Description: Minions are dealing 5 additional damage
+			BannerDamage:{
+				DisplayName: 伤害旗帜
+				Description: 仆从造成5点额外伤害
 			}
-
-			BannerDefense: {
-				DisplayName: Combative Banner
-				Description: Damage reduction increased by 3% per maximum minion
+			BannerDefense:{
+				DisplayName: 防御旗帜
+				Description: 每个最大仆从的伤害增加3%
 			}
-
-			BannerFalcon: {
-				DisplayName: Falcon
-				Description: Nearby minions might deal additional damage on hit
+			BannerFalcon:{
+				DisplayName: 猎鹰
+				Description: 附近的仆从可能在命中时造成额外伤害
 			}
-
-			BannerGhost: {
-				DisplayName: Sacrificial Effigy
-				Description: Nearby kills will summon a helpful ghost
+			BannerGhost:{
+				DisplayName: 祭祀雕像
+				Description: 附近的会召唤出一个有用的鬼魂
 			}
-
-			BannerLifeRegen: {
-				DisplayName: Morale Banner
-				Description: Minion attacks might heal you
+			BannerLifeRegen:{
+				DisplayName: 莫拉莱旗
+				Description: 仆从攻击可能会治疗你
 			}
-
-			BannerPious: {
-				DisplayName: Pious Banner
-				Description: Nearby minions...
+			BannerPious:{
+				DisplayName: 仆从旗帜
+				Description: 附近的仆从……
 			}
-
-			BannerPower: {
-				DisplayName: Power Banner
-				Description: One of your sentries is empowered
+			BannerPower:{
+				DisplayName: 能量旗帜
+				Description: 你的一个哨兵被增强了
 			}
-
-			BannerPrecision: {
-				DisplayName: Precision Banner
-				Description: Nearby minions have a 5% chance to critically strike
+			BannerPrecision:{
+				DisplayName: 精密旗帜
+				Description: 附近的仆从有5%的几率暴击
 			}
-
-			BeholderStaffBuff: {
+			BeholderStaffBuff:
+			{
 				DisplayName: Beholding
 				Description: The Beholder will give sight of and eradicate your foes
 			}
-
-			BlobhornCoralStaffBuff: {
+			BlobhornCoralStaffBuff:
+			{
 				DisplayName: Blobfish
-				Description: Is it cute? Is it ugly? You decide...
+				Description: Is it cute？ Is it ugly？ You decide……
 			}
-
-			BloodFeasterStaffBuff: {
-				DisplayName: Blood Zombie
-				Description: As long as it gets to feed, it won't bother you...
+			BloodFeasterStaffBuff:{
+				DisplayName: 血腥僵尸
+				Description: 只要它能进食，它就不会打扰你……
 			}
-
-			BloodPact: {
-				DisplayName: Blood Pact
-				Description: Just sealed a contract with a demon...
+			BloodPact:{
+				DisplayName: 血契
+				Description: 刚和一个恶魔签了合同……
 			}
-
-			BloodyPaganStaffBuff: {
-				DisplayName: Malicious Face
-				Description: Shall rend. Your foes. APART!
+			BloodyPaganStaffBuff:{
+				DisplayName: 恶意的脸
+				Description: 将撕裂。你的敌人。分开！
 			}
-
-			ButterflyStaffBuff: {
+			ButterflyStaffBuff:
+			{
 				DisplayName: Butterfly Swarm
 				Description: En masse, butterflies pose a great threat to enemies
 			}
-
-			CorrodlingStaffBuff: {
+			CorrodlingStaffBuff:
+			{
 				DisplayName: Corrodling
-				Description: Defensive units stand no chance against these little guys!
+				Description: Defensive units stand no chance against these little guys！
 			}
-
-			CorruptlingStaffBuff: {
+			CorruptlingStaffBuff:
+			{
 				DisplayName: Corruptling
-				Description: Not all denizens of the corruption want to eat souls...
+				Description: Not all denizens of the corruption want to eat souls……
 			}
-
-			CrimsonHoundStaffBuff: {
+			CrimsonHoundStaffBuff:
+			{
 				DisplayName: Crimson Hound
-				Description: Despite not having a mouth, the hound will find a way to feed...
+				Description: Despite not having a mouth, the hound will find a way to feed……
 			}
-
-			DraconicMagmaStaffBuff: {
-				DisplayName: Dragon Melter
-				Description: Your foes stand no chance
+			DraconicMagmaStaffBuff:{
+				DisplayName: 龙熔化器
+				Description: 你的敌人没有机会
 			}
-
-			EmberStaffBuff: {
+			EmberStaffBuff:
+			{
 				DisplayName: Molten Ember
-				Description: The heat emanating from that thing is unbearable...
+				Description: The heat emanating from that thing is unbearable……
 			}
-
-			EnchantedCaneBuff: {
+			EnchantedCaneBuff:
+			{
 				DisplayName: Enchanted Barrier
 				Description: You are protected by a magical barrier
 			}
-
-			EyeofOdinBuff: {
-				DisplayName: Eye of Odin
-				Description: A powerful eye is ready to electrocute your foes!
+			EyeofOdinBuff:{
+				DisplayName: 奥丁之眼
+				Description: 一只强大的眼睛随时准备电死你的敌人！
 			}
-
-			HailBomberBuff: {
-				DisplayName: Hail Bomber
-				Description: It probably doesnt hurt them, don't worry...
+			HailBomberBuff:{
+				DisplayName: 冰雹轰炸机
+				Description: 这可能不会伤害他们，别担心……
 			}
-
-			IceFairyStaffBuff: {
+			IceFairyStaffBuff:
+			{
 				DisplayName: Icy Fairy
-				Description: Your enemies better hope they brought a coat!
+				Description: Your enemies better hope they brought a coat！
 			}
-
-			LadyLightBuff: {
-				DisplayName: Sparkly Sparkle
-				Description: It's sparkling like crazy!
+			LadyLightBuff:{
+				DisplayName: 闪闪发光的
+				Description: 它像疯了一样闪闪发光！
 			}
-
-			LivingWoodAcornBuff: {
-				DisplayName: Sprout Loyalty
-				Description: This little guy is giving his all to protect the world
+			LivingWoodAcornBuff:{
+				DisplayName: 忠诚度的萌芽
+				Description: 这个小家伙为了保护世界付出了所有
 			}
-
-			MantisCaneBuff: {
+			MantisCaneBuff:
+			{
 				DisplayName: Razor Mantis
-				Description: Male mates beware!
+				Description: Male mates beware！
 			}
-
-			MastersLibramBuff: {
+			MastersLibramBuff:
+			{
 				DisplayName: Enchanted Tome
 				Description: A spell flinging tome is assisting you
 			}
-
-			MeteorHeadStaffBuff: {
+			MeteorHeadStaffBuff:
+			{
 				DisplayName: Meteor Head
 				Description: The meteor head has decided to work with you
 			}
-
-			MoltenBannerBuff: {
-				DisplayName: Molten Banner
-				Description: Minion attacks have been empowered with intense heat
+			MoltenBannerBuff:{
+				DisplayName: 融化的旗帜
+				Description: 仆从攻击已被赋予了强大的火之力
 			}
-
-			NebulaReflectionBuff: {
+			NebulaReflectionBuff:
+			{
 				DisplayName: Mirror Image
 				Description: A mirror image is assisting you
 			}
-
-			PrehistoricAmberStaffBuff: {
+			PrehistoricAmberStaffBuff:
+			{
 				DisplayName: Rampage
-				Description: These dinos are going crazy!
+				Description: These dinos are going crazy！
 			}
-
-			RosySlimeStaffBuff: {
+			RosySlimeStaffBuff:
+			{
 				DisplayName: Rosy Slime
 				Description: Almost as diabolical as Pinky herself
 			}
-
-			SeahorseWandBuff: {
+			SeahorseWandBuff:
+			{
 				DisplayName: Seahorse
-				Description: A buncha' bubbles are on the way!
+				Description: A buncha' bubbles are on the way！
 			}
-
-			SteamgunnerControllerBuff: {
+			SteamgunnerControllerBuff:
+			{
 				DisplayName: Steamgunner Drone
 				Description: The drone runs one program: Shoot stuff
 			}
-
-			StormHatchlingStaffBuff: {
+			StormHatchlingStaffBuff:
+			{
 				DisplayName: Hatchling
-				Description: This hatchling thinks you're its mother!
+				Description: This hatchling thinks you're its mother！
 			}
-
-			TabooWandBuff: {
+			TabooWandBuff:
+			{
 				DisplayName: Dark Risen
-				Description: He's ready to start a skeleton rave party!
+				Description: He's ready to start a skeleton rave party！
 			}
-
-			TerrariumEnigmaStaffBuff: {
+			TerrariumEnigmaStaffBuff:
+			{
 				DisplayName: Enigma
-				Description: Light bends around the complicated enigma...
+				Description: Light bends around the complicated enigma……
 			}
-
-			TheBlackCaneBuff: {
+			TheBlackCaneBuff:
+			{
 				DisplayName: Lee's Weapons
-				Description: Some of Lee's favorite weapons fight on from the grave...
+				Description: Some of Lee's favorite weapons fight on from the grave……
 			}
-
-			ValkyrieBladeBuff: {
-				DisplayName: Valkyrie Blade
-				Description: The blade has a will of its own...
+			ValkyrieBladeBuff:{
+				DisplayName: 女武神之刃
+				Description: 刀刃有自己的意志……
 			}
-
-			ViscountCaneBuff: {
+			ViscountCaneBuff:
+			{
 				DisplayName: Blood Drinker
 				Description: His thirst for blood is insatiable
 			}
-
-			YarnBallBuff: {
+			YarnBallBuff:
+			{
 				DisplayName: Baby Kitty
 				Description: Nibbles and scratches will be their doom
 			}
-
-			Sundered: {
+			Sundered:
+			{
 				DisplayName: Sundered
 				Description: Taking 10% more damage from all sources
 			}
-
-			TerrariumBacklash: {
+			TerrariumBacklash:
+			{
 				DisplayName: Terrarium Backlash
 				Description: Sundered by the elements of Terraria
 			}
-
-			TerrariumDefenderBuff: {
+			TerrariumDefenderBuff:
+			{
 				DisplayName: Terraria's Kiss
 				Description: The forces of Terraria are protecting you
 			}
-
-			BloodLotus: {
-				DisplayName: Blood Lotus
-				Description: Releasing a life stealing torrent
+			BloodLotus:{
+				DisplayName: 血莲花
+				Description: 释放生命偷取洪流
 			}
-
-			LastStandBuff: {
-				DisplayName: Last Stand
-				Description: Throwing speed & damage increased by 30%, but at a price...
+			LastStandBuff:{
+				DisplayName: 背水一战
+				Description: 投掷速度和伤害增加30%，但代价高昂……
 			}
-
-			Sprint: {
-				DisplayName: Sprint
-				Description: You're running much faster!
+			Sprint:{
+				DisplayName: 冲刺
+				Description: 你跑得快多了！
 			}
-
-			ThrowingSpeed: {
-				DisplayName: Burst of Speed
-				Description: Your throwing speed has been increased by 15%
+			ThrowingSpeed:{
+				DisplayName: 速度的爆发
+				Description: 你的投掷速度提高了15%
 			}
-
-			ToxicCoatingBuff: {
+			ToxicCoatingBuff:
+			{
 				DisplayName: Thrown Weapon Imbue : Toxic
 				Description: Throwing damage has a chance to poison hit enemies
 			}
-
-			TrueStrike: {
-				DisplayName: True Strikes
-				Description: Your damage has a 100% chance to critically strike
+			TrueStrike:{
+				DisplayName: 真实打击
+				Description: 你的伤害有100%几率暴击
 			}
-
-			TrueStrikeTired: {
-				DisplayName: Critically Exhausted
-				Description: Your damage has been decreased by 10%
+			TrueStrikeTired:{
+				DisplayName: 极度疲惫
+				Description: 你的伤害降低了10%
 			}
-
-			Tuned: {
-				DisplayName: Tuned
-				Description: Taking 10% more damage from all sources
+			Tuned:{
+				DisplayName: 被调谐
+				Description: 所有来源的伤害增加10%
 			}
-
-			ValadiumSetBuff: {
+			ValadiumSetBuff:
+			{
 				DisplayName: Gravity Proficiency
 				Description: Ranged damage increased by 15%
 			}
-
-			VampiresCurseBuff: {
+			VampiresCurseBuff:
+			{
 				DisplayName: Vampire's Curse
-				Description: You've been forcibly transformed into a weak bat!
+				Description: You've been forcibly transformed into a weak bat！
 			}
-
-			WarmongerBuff: {
-				DisplayName: Warmonger
-				Description: Increased enemy spawn rates
+			WarmongerBuff:{
+				DisplayName: 好战分子
+				Description: 增加敌方生成率
 			}
-
-			WidowsKiss: {
-				DisplayName: Widow's Kiss
-				Description: A deadly toxin is flowing through your body!
+			WidowsKiss:{
+				DisplayName: 寡妇之吻
+				Description: 一种致命的毒素正在你体内流动！
 			}
-
-			WindBurst: {
-				DisplayName: Wind Burst
-				Description: Your tool speed is increased by 15%
+			WindBurst:{
+				DisplayName: 狂风大作
+				Description: 你的刀具速度提高15%
 			}
-
-			Wither: {
-				DisplayName: Wither
-				Description: WITHER AWAY!!!
+			Wither:{
+				DisplayName: 枯萎
+				Description: 枯萎！！！
 			}
-
-			ZombieRepellentBuff: {
-				DisplayName: Repellent : Zombies
-				Description: Most zombies will become friendly to you
+			ZombieRepellentBuff:{
+				DisplayName: 驱避剂:僵尸
+				Description: 大多数僵尸会对你友好
 			}
-
-			AmpedUp: {
+			AmpedUp:
+			{
 				Description: Critical strike chance increased by 6%
 				DisplayName: Amped Up
 			}
-
-			PurifiersRingBuff: {
+			PurifiersRingBuff:
+			{
 				DisplayName: Purifier's Ring
-				Description: From now on, there will be no more darkness...
+				Description: From now on, there will be no more darkness……
 			}
-
-			MoleCrateBuff: {
+			MoleCrateBuff:
+			{
 				DisplayName: Skull Cat
 				Description: Time for a super animal adventure
 			}
@@ -1909,41 +1695,41 @@ Mods: {
 					''' */
 
 				SetBonusQuotes: {
-					TheGrandThunderBird: Why show mercy to the weak...?
-					KingSlime: Pawns used in a cosmic game...
-					EyeofCthulhu: One of many vessels...
-					EaterofWorlds: Our influence is wide spread...
-					BrainofCthulhu: None can fathom our machinations...
-					QueenJellyfish: Merely another failed experiment...
-					Viscount: Blood sacrificed to the wrong source...
-					Deerclops: Another creature fueled by insanity...
-					QueenBee: Anything can be corrupted...
-					Skeletron: None the wiser to our goals...
-					GraniteEnergyStorm: All energies will be consumed in due time...
-					BuriedChampion: Such elation from the purging of that one...
-					StarScouter: Their interference makes little difference...
-					WallofFlesh: Yes... Continue on your quest, 'Hero'...
-					FallenBeholder: Pathetic...
-					BoreanStrider: To adapt and overcome is our specialty...
-					QueenSlime: Self proclaimed leaders... Servants all the same...
-					SkeletronPrime: You continue to demonstrate your rage...
-					TheDestroyer: You continue to demonstrate your power...
-					TheTwins: You continue to demonstrate your vision...
-					Lich: How short sighted...
-					Plantera: We too shall grow across the universe...
-					Golem: False idols to a dead god...
-					ForgottenOne: A necessary loss...
-					MartianSaucer: Still they resist...
-					EmpressofLight: That one felled many of us... Wonderful...
-					DukeFishron: We expected more from that one...
-					Cultist: Worship better meant for our cause...
-					MoonLord: We are not the only ones forgotten by time...
-					DreamEater: We have much to think about...
+					TheGrandThunderBird: Why show mercy to the weak……？
+					KingSlime: Pawns used in a cosmic game……
+					EyeofCthulhu: One of many vessels……
+					EaterofWorlds: Our influence is wide spread……
+					BrainofCthulhu: None can fathom our machinations……
+					QueenJellyfish: Merely another failed experiment……
+					Viscount: Blood sacrificed to the wrong source……
+					Deerclops: Another creature fueled by insanity……
+					QueenBee: Anything can be corrupted……
+					Skeletron: None the wiser to our goals……
+					GraniteEnergyStorm: All energies will be consumed in due time……
+					BuriedChampion: Such elation from the purging of that one……
+					StarScouter: Their interference makes little difference……
+					WallofFlesh: Yes…… Continue on your quest, 'Hero'……
+					FallenBeholder: Pathetic……
+					BoreanStrider: To adapt and overcome is our specialty……
+					QueenSlime: Self proclaimed leaders…… Servants all the same……
+					SkeletronPrime: You continue to demonstrate your rage……
+					TheDestroyer: You continue to demonstrate your power……
+					TheTwins: You continue to demonstrate your vision……
+					Lich: How short sighted……
+					Plantera: We too shall grow across the universe……
+					Golem: False idols to a dead god……
+					ForgottenOne: A necessary loss……
+					MartianSaucer: Still they resist……
+					EmpressofLight: That one felled many of us…… Wonderful……
+					DukeFishron: We expected more from that one……
+					Cultist: Worship better meant for our cause……
+					MoonLord: We are not the only ones forgotten by time……
+					DreamEater: We have much to think about……
 				}
 
 				SetBonusFallbackQuotes: {
-					0: That is not one of ours... Interesting...
-					1: They exist outside the cycle...
+					0: That is not one of ours…… Interesting……
+					1: They exist outside the cycle……
 				}
 			}
 
@@ -2200,7 +1986,7 @@ Mods: {
 
 			HallucinationBanner: {
 				DisplayName: Mysterious Banner
-				NPCNameText: ???
+				NPCNameText: ？？？
 			}
 
 			HammerHeadBanner.DisplayName: Hammerhead Banner
@@ -2568,7 +2354,7 @@ Mods: {
 				DisplayName: Fan Letter
 				/* Tooltip:
 					'''
-					'Full of intrusive compliments... but is surprisingly inspirational'
+					'Full of intrusive compliments…… but is surprisingly inspirational'
 					Increases maximum inspiration by 3
 					''' */
 			}
@@ -2577,7 +2363,7 @@ Mods: {
 				DisplayName: Fan Letter
 				/* Tooltip:
 					'''
-					'Full of intrusive compliments... but is surprisingly inspirational'
+					'Full of intrusive compliments…… but is surprisingly inspirational'
 					Increases maximum inspiration by 3
 					''' */
 			}
@@ -3609,7 +3395,7 @@ Mods: {
 				DisplayName: Greedy Goblet
 				/* Tooltip:
 					'''
-					'Your avarice, and patience, know no bounds...'
+					'Your avarice, and patience, know no bounds……'
 					Increases coin pickup range and shops prices lowered by 20%
 					Hitting enemies will sometimes drop extra coins
 					Hitting enemies will cause them to drop more money on death
@@ -4017,7 +3803,7 @@ Mods: {
 
 			Aril: {
 				DisplayName: Aril
-				Tooltip: "'It's got an air of L to it...'"
+				Tooltip: "'It's got an air of L to it……'"
 			}
 
 			ArtilleryPotion: {
@@ -4048,7 +3834,7 @@ Mods: {
 				DisplayName: Blueberry Tart
 				/* Tooltip:
 					'''
-					'Made with local blueberries on a buttery, crumbly pastry!'
+					'Made with local blueberries on a buttery, crumbly pastry！'
 					Grants increased heart pick up range and minor improvements to all stats
 					''' */
 			}
@@ -4057,7 +3843,7 @@ Mods: {
 				DisplayName: Blue Cheese
 				/* Tooltip:
 					'''
-					'Blue is right... This stuff practically glows!'
+					'Blue is right…… This stuff practically glows！'
 					Grants increased light emission and minor improvements to all stats
 					''' */
 			}
@@ -4072,7 +3858,7 @@ Mods: {
 				/* Tooltip:
 					'''
 					Medium improvements to all stats
-					'Tapiooooca! Tapiooooca!'
+					'Tapiooooca！ Tapiooooca！'
 					''' */
 			}
 
@@ -4080,7 +3866,7 @@ Mods: {
 				DisplayName: Carrot Cookie
 				/* Tooltip:
 					'''
-					'Like carrot cake, but smaller!'
+					'Like carrot cake, but smaller！'
 					Grants increased vision and minor improvements to all stats
 					''' */
 			}
@@ -4089,7 +3875,7 @@ Mods: {
 				DisplayName: Cherry Pie
 				/* Tooltip:
 					'''
-					'Home-made with cherry-picked cherries!'
+					'Home-made with cherry-picked cherries！'
 					Grants increased life regeneration and minor improvements to all stats
 					''' */
 			}
@@ -4164,7 +3950,7 @@ Mods: {
 				DisplayName: Ham and Cheese Melt
 				/* Tooltip:
 					'''
-					'Toasted to perfection!'
+					'Toasted to perfection！'
 					Grants increased knockback and minor improvements to all stats
 					''' */
 			}
@@ -4187,7 +3973,7 @@ Mods: {
 				DisplayName: Ice Cream Cone
 				/* Tooltip:
 					'''
-					'A nice cold, sweet treat!'
+					'A nice cold, sweet treat！'
 					Grants increased magic damage and minor improvements to all stats
 					''' */
 			}
@@ -4201,14 +3987,14 @@ Mods: {
 				DisplayName: Jelly
 				/* Tooltip:
 					'''
-					'Should you really eat this stuff?'
+					'Should you really eat this stuff？'
 					Heals some additional health afterwards
 					''' */
 			}
 
 			Kumquat: {
 				DisplayName: Kumquat
-				Tooltip: "'My favorite funny word!'"
+				Tooltip: "'My favorite funny word！'"
 			}
 
 			LifeWater: {
@@ -4267,7 +4053,7 @@ Mods: {
 				DisplayName: Mean n' Green Stew
 				/* Tooltip:
 					'''
-					'Multiple green things in a bowl, how can you go wrong?'
+					'Multiple green things in a bowl, how can you go wrong？'
 					Grants increased critical strike chance and minor improvements to all stats
 					''' */
 			}
@@ -4293,14 +4079,14 @@ Mods: {
 
 			Persimmon: {
 				DisplayName: Persimmon
-				Tooltip: "'Do I have permission to eat this?'"
+				Tooltip: "'Do I have permission to eat this？'"
 			}
 
 			PricklyJam: {
 				DisplayName: Prickly Jam
 				/* Tooltip:
 					'''
-					'When prepared correctly, the pink pear won't induce hallucinations!'
+					'When prepared correctly, the pink pear won't induce hallucinations！'
 					Grants increased reflected damage and minor improvements to all stats
 					''' */
 			}
@@ -4309,7 +4095,7 @@ Mods: {
 				DisplayName: Questionable Stew
 				/* Tooltip:
 					'''
-					'The dish itself is not questionable, eating it however...'
+					'The dish itself is not questionable, eating it however……'
 					Grants increased enemy spawn rates and minor improvements to all stats
 					''' */
 			}
@@ -4328,7 +4114,7 @@ Mods: {
 				DisplayName: Sky Bloom Cocktail
 				/* Tooltip:
 					'''
-					'The bright blue flower serves as a perfect umbrella for the drink!'
+					'The bright blue flower serves as a perfect umbrella for the drink！'
 					Grants reduced fall speed and minor improvements to all stats
 					''' */
 			}
@@ -4356,7 +4142,7 @@ Mods: {
 				DisplayName: Stuffed Life Fruit
 				/* Tooltip:
 					'''
-					'Looks like it's stuffed with life crystals...?'
+					'Looks like it's stuffed with life crystals……？'
 					Grants increased maximum life and minor improvements to all stats
 					''' */
 			}
@@ -4723,7 +4509,7 @@ Mods: {
 
 			AbyssalChitin: {
 				DisplayName: Abyssal Chitin
-				Tooltip: "'Formed in an environment even deeper and darker than the aquatic depths...'"
+				Tooltip: "'Formed in an environment even deeper and darker than the aquatic depths……'"
 			}
 
 			AbyssalCrate: {
@@ -4869,7 +4655,7 @@ Mods: {
 
 			DepthScale: {
 				DisplayName: Depth Scales
-				Tooltip: "'Evolution has designed this for the deep...'"
+				Tooltip: "'Evolution has designed this for the deep……'"
 			}
 
 			DrenchedDirk: {
@@ -5027,7 +4813,7 @@ Mods: {
 				DisplayName: Rain Stone
 				/* Tooltip:
 					'''
-					'It's said that this strange stone was torn from an entity that could control the seas...'
+					'It's said that this strange stone was torn from an entity that could control the seas……'
 					Activates or cancels a rainstorm
 					''' */
 			}
@@ -5602,7 +5388,7 @@ Mods: {
 				DisplayName: 欢愉坚果
 				Tooltip:
 					'''
-					“卡波!卡波！”
+					“卡波！卡波！”
 					召唤一个会飞的小可爱
 					'''
 			}
@@ -5630,14 +5416,14 @@ Mods: {
 				DisplayName: Dream Megaphone
 				/* Tooltip:
 					'''
-					'IS THIS THING OOONNN!?~'
+					'IS THIS THING OOONNN！？~'
 					Adversely, it increases the damage you take by 40% for 30 seconds
 					''' */
 			}
 
 			DriedMask: {
 				DisplayName: Dried Mask
-				Tooltip: "'Someone needs a glass of water...'"
+				Tooltip: "'Someone needs a glass of water……'"
 			}
 
 			DrownedDoubloon: {
@@ -5731,7 +5517,7 @@ Mods: {
 				DisplayName: Fire Axe
 				/* Tooltip:
 					'''
-					'Best to avoid chasms with this thing...'
+					'Best to avoid chasms with this thing……'
 					Overuse of this weapon exhausts you, massively reducing its damage
 					Killing enemies recovers some of your exhaustion
 					''' */
@@ -5815,7 +5601,7 @@ Mods: {
 				/* Tooltip:
 					'''
 					Major improvements to all stats
-					'Bosses are cool and all... but have you ever eaten garlic bread?'
+					'Bosses are cool and all…… but have you ever eaten garlic bread？'
 					''' */
 			}
 
@@ -5843,7 +5629,7 @@ Mods: {
 				DisplayName: Ghastly Carapace
 				/* Tooltip:
 					'''
-					'You're in full control of your spirit...'
+					'You're in full control of your spirit……'
 					Taking fatal damage will instead instantly teleport you home every two minutes
 					''' */
 			}
@@ -6018,7 +5804,7 @@ Mods: {
 				DisplayName: Heartstriker
 				/* Tooltip:
 					'''
-					'From a galaxy, far, far, FAR away...'
+					'From a galaxy, far, far, FAR away……'
 					Whips out a poison-bubble spitting snake bite
 					Right click to stab forward, dealing bonus damage to poisoned enemies
 					''' */
@@ -6201,7 +5987,7 @@ Mods: {
 				DisplayName: Lingering Will
 				/* Tooltip:
 					'''
-					'Strength of heart will carry you through the hardest of trials...'
+					'Strength of heart will carry you through the hardest of trials……'
 					Performs a three swing combo that finishes with a magical thrust
 					''' */
 			}
@@ -6220,7 +6006,7 @@ Mods: {
 				DisplayName: Lucky Rabbit's Foot
 				/* Tooltip:
 					'''
-					'Made with real fake fur!'
+					'Made with real fake fur！'
 					Your luck is slightly increased
 					Killed enemies have a chance to drop 100% more coins
 					''' */
@@ -6260,7 +6046,7 @@ Mods: {
 				DisplayName: Mantle of the Protector
 				/* Tooltip:
 					'''
-					'Honor, Humility, and Will... Those are the true shields'
+					'Honor, Humility, and Will…… Those are the true shields'
 					Increases defense by 6
 					Increases length of invincibility after taking damage
 					Dispels up to one damaging debuff off of you every 6 seconds
@@ -6296,7 +6082,7 @@ Mods: {
 				DisplayName: Medium Rare Steak
 				/* Tooltip:
 					'''
-					'Perfect for a growing dragon's diet... I think?'
+					'Perfect for a growing dragon's diet…… I think？'
 					Summons a mountable Baby Dragon
 					While mounted, the dragon will spit fireballs at nearby enemies
 					The fireballs deal the same type of damage as your held weapon
@@ -6331,7 +6117,7 @@ Mods: {
 				DisplayName: 鼹鼠箱
 				Tooltip:
 					'''
-					“从动物园来的纪念品朋友!”
+					“从动物园来的纪念品朋友！”
 					放出一只奇怪的猫跟着你
 					'''
 			}
@@ -6340,7 +6126,7 @@ Mods: {
 				DisplayName: Moonlight
 				/* Tooltip:
 					'''
-					'My guiding moonlight...'
+					'My guiding moonlight……'
 					Damaging an enemy empowers the next use of the spear every 3 seconds
 					''' */
 			}
@@ -6411,7 +6197,7 @@ Mods: {
 				DisplayName: Northern Light
 				/* Tooltip:
 					'''
-					'Is this the first time that you've ever seen. Aurora Borealis crush mankind?'
+					'Is this the first time that you've ever seen. Aurora Borealis crush mankind？'
 					Summons a localized aurora borealis upon your cursor's position
 					The aurora borealis unleashes a light storm upon enemies below
 					''' */
@@ -6471,7 +6257,7 @@ Mods: {
 				DisplayName: Otherworldly Rune
 				/* Tooltip:
 					'''
-					'Unintelligible voices echo: Zerath! Milogop! Tz'rok!'
+					'Unintelligible voices echo: Zerath！ Milogop！ Tz'rok！'
 					Summons an apocalyptic chariot
 					''' */
 			}
@@ -6635,18 +6421,18 @@ Mods: {
 
 			PurifiersCap: {
 				DisplayName: Purifier's Cap
-				Tooltip: "'Purification in progress...'"
+				Tooltip: "'Purification in progress……'"
 				VanityConfigName: Purifier's clothes
 			}
 
 			PurifiersCleats: {
 				DisplayName: Purifier's Cleats
-				Tooltip: "'Purification in progress...'"
+				Tooltip: "'Purification in progress……'"
 			}
 
 			PurifiersUniform: {
 				DisplayName: Purifier's Uniform
-				Tooltip: "'Purification in progress...'"
+				Tooltip: "'Purification in progress……'"
 			}
 
 			PurifiersRing: {
@@ -6885,7 +6671,7 @@ Mods: {
 
 			Skadoosh: {
 				DisplayName: Skadoosh
-				Tooltip: "'Find inner peace...'"
+				Tooltip: "'Find inner peace……'"
 			}
 
 			SmitingHammer: {
@@ -6922,7 +6708,7 @@ Mods: {
 				DisplayName: Soul Reaver
 				/* Tooltip:
 					'''
-					'He told you...'
+					'He told you……'
 					Left click to hurl impaling echoes of the soul reaver, which stick into enemies
 					Right click to stab the soul reaver forward, stealing life equal to the amount of echoes in the enemy
 					''' */
@@ -7042,7 +6828,7 @@ Mods: {
 				DisplayName: Supersonic Bomber
 				/* Tooltip:
 					'''
-					'Gib your enemies!'
+					'Gib your enemies！'
 					Turns fired rockets into an incredibly fast missile
 					''' */
 			}
@@ -7602,7 +7388,7 @@ Mods: {
 				DisplayName: Deity's Trefork
 				/* Tooltip:
 					'''
-					'Pierce those that would harm the innocent...'
+					'Pierce those that would harm the innocent……'
 					Rapidly throws an aquatic trident that releases a burst of water on hit
 					Overuse of this weapon exhausts you, massively reducing its damage
 					Killing enemies recovers some of your exhaustion
@@ -7618,7 +7404,7 @@ Mods: {
 				DisplayName: Ocean's Judgement
 				/* Tooltip:
 					'''
-					'Stand before the might of the sea and repent...'
+					'Stand before the might of the sea and repent……'
 					Throws a hyper dense water mallet that rains upon hit enemies
 					Rain drops shield your life by 3 up to 25
 					''' */
@@ -7628,7 +7414,7 @@ Mods: {
 				DisplayName: Seven Seas' Devastator
 				/* Tooltip:
 					'''
-					'Water brings life and death in equal parts...'
+					'Water brings life and death in equal parts……'
 					Unleashes a ball of condensed water that summons homing bubbles
 					Bubbles shield your life by 1 up to 25
 					''' */
@@ -7638,7 +7424,7 @@ Mods: {
 				DisplayName: Tidal Wave
 				/* Tooltip:
 					'''
-					'Sweep away your foes with the fury of the tide...'
+					'Sweep away your foes with the fury of the tide……'
 					Throws out a massive aquatic shuriken that releases miniature waves
 					Overuse of this weapon exhausts you, massively reducing its damage
 					Killing enemies recovers some of your exhaustion
@@ -7694,28 +7480,28 @@ Mods: {
 
 			AquaMask: {
 				DisplayName: Aquaius Mask
-				Tooltip: "'Wear a visage of Vigilance...'"
+				Tooltip: "'Wear a visage of Vigilance……'"
 			}
 
 			DoomSayersCoin: {
 				DisplayName: Doom Sayer's Coin
 				/* Tooltip:
 					'''
-					'Foretells of a great disaster that will befall Terraria...'
+					'Foretells of a great disaster that will befall Terraria……'
 					Unleashes The Primordials at night
 					''' */
 			}
 
 			DormantHammer: {
 				DisplayName: Dormant Hammer
-				Tooltip: "'There appears to be an empty socket in the middle of the hammer's head...'"
+				Tooltip: "'There appears to be an empty socket in the middle of the hammer's head……'"
 			}
 
 			DreamCatcher: {
 				DisplayName: Dream Catcher
 				/* Tooltip:
 					'''
-					'To catch and cradle the hopes of the world...'
+					'To catch and cradle the hopes of the world……'
 					Summons up to one dream catcher at the cursor's location
 					Staying within the dream catcher will completely heal you if you take fatal damage
 					''' */
@@ -7776,7 +7562,7 @@ Mods: {
 				DisplayName: Lucidity
 				/* Tooltip:
 					'''
-					'Reality is not always as strict as it seems...'
+					'Reality is not always as strict as it seems……'
 					Releases a crescent tear in reality
 					Half the life cost is given to your ally with the least health
 					''' */
@@ -7786,7 +7572,7 @@ Mods: {
 				DisplayName: Reality Slasher
 				/* Tooltip:
 					'''
-					'Leave your mark upon the world...'
+					'Leave your mark upon the world……'
 					Rapidly spins a reality slicing scythe all around you
 					Nearby enemies are rapidly torn from reality
 					''' */
@@ -7796,7 +7582,7 @@ Mods: {
 				DisplayName: Unbound Fantasy
 				/* Tooltip:
 					'''
-					'Such harmony from the end of all things...'
+					'Such harmony from the end of all things……'
 					Heals player life by 10% of their maximum life and an additional 20% per empower level
 					Channels a growing globule of unexplainable energy that empowers itself every second
 					The orb can empower itself a maximum of two times, and heals all nearby players
@@ -7867,7 +7653,7 @@ Mods: {
 				DisplayName: Omni-Bow
 				/* Tooltip:
 					'''
-					'Death by a thousand cuts...'
+					'Death by a thousand cuts……'
 					Unleashes a barrage of death arrows
 					''' */
 			}
@@ -7876,7 +7662,7 @@ Mods: {
 				DisplayName: Omni-Cannon
 				/* Tooltip:
 					'''
-					'Eradicate the unworthy...'
+					'Eradicate the unworthy……'
 					Fires off three high speed energy pulses
 					Right click to unleash a powerful burst of energy
 					''' */
@@ -7886,7 +7672,7 @@ Mods: {
 				DisplayName: The Javelin
 				/* Tooltip:
 					'''
-					'You are become death...'
+					'You are become death……'
 					Launches a homing missile fueled by death itself
 					{$CommonItemTooltip.PercentChanceToSaveAmmo}
 					''' */
@@ -7896,7 +7682,7 @@ Mods: {
 				DisplayName: Wyrm Decimator
 				/* Tooltip:
 					'''
-					'Belch your wrath upon those undeserving of life...'
+					'Belch your wrath upon those undeserving of life……'
 					Uses gel for ammo
 					Releases a torrent of caustic wyrm breath
 					{$CommonItemTooltip.PercentChanceToSaveAmmo}
@@ -7905,14 +7691,14 @@ Mods: {
 
 			OmniMask: {
 				DisplayName: Omnicide Mask
-				Tooltip: "'Wear a visage of Chaos...'"
+				Tooltip: "'Wear a visage of Chaos……'"
 			}
 
 			EdgeofImagination: {
 				DisplayName: Edge of Imagination
 				/* Tooltip:
 					'''
-					'Break free from your perceived limitations...'
+					'Break free from your perceived limitations……'
 					Plays a mythical guitar, releasing multiple super riffs
 					Gains increased damage after every bounce
 					''' */
@@ -7922,7 +7708,7 @@ Mods: {
 				DisplayName: Holophonor
 				/* Tooltip:
 					'''
-					'Surround your audience with pure imagination...'
+					'Surround your audience with pure imagination……'
 					Quickly releases harmonizing sound bolts
 					Right click to create up to 5 mind runes that duplicate your attack
 					''' */
@@ -7980,7 +7766,7 @@ Mods: {
 				DisplayName: Sousaphone
 				/* Tooltip:
 					'''
-					'The vibrating destruction quiets the noise of hate...'
+					'The vibrating destruction quiets the noise of hate……'
 					Unleashes a vibrating hyper beam that tunes enemies
 					Tuned enemies take 10% more damage
 					''' */
@@ -7990,7 +7776,7 @@ Mods: {
 				DisplayName: The Set
 				/* Tooltip:
 					'''
-					'The rhythm can be felt in all things...'
+					'The rhythm can be felt in all things……'
 					Allows you to rhythmically bang on a set of drums
 					Each timed hit increases the set's damage by 4% up to 120%
 					Each timed hit above 80% bonus damage releases additional bursts of sound
@@ -8002,7 +7788,7 @@ Mods: {
 				DisplayName: Almanac of Agony
 				/* Tooltip:
 					'''
-					'Misery loves company...'
+					'Misery loves company……'
 					Rapidly unleashes flaming, homing skulls
 					''' */
 			}
@@ -8011,7 +7797,7 @@ Mods: {
 				DisplayName: Devil's Claw
 				/* Tooltip:
 					'''
-					'Blinding molten fury eviscerates the weak...'
+					'Blinding molten fury eviscerates the weak……'
 					Unleashes slashes of infinite heat at your cursor's position
 					''' */
 			}
@@ -8020,7 +7806,7 @@ Mods: {
 				DisplayName: Ember Staff
 				/* Tooltip:
 					'''
-					'Your anger shall lash out with reckless abandon...'
+					'Your anger shall lash out with reckless abandon……'
 					Summons an ember of Slag Fury, which unleashes molten destruction upon your enemies
 					Occupies two minion slots
 					''' */
@@ -8047,7 +7833,7 @@ Mods: {
 				DisplayName: Promethean Staff
 				/* Tooltip:
 					'''
-					'So furious was he, that he remained even after death...'
+					'So furious was he, that he remained even after death……'
 					Summons an echo of Slag Fury's power to melt your foes
 					''' */
 			}
@@ -8089,7 +7875,7 @@ Mods: {
 
 			SlagMask: {
 				DisplayName: Slag Fury Mask
-				Tooltip: "'Wear a visage of Aggression...'"
+				Tooltip: "'Wear a visage of Aggression……'"
 			}
 
 			TheOmegaCore: {
@@ -8382,7 +8168,7 @@ Mods: {
 
 			CrystalGeode: {
 				DisplayName: Crystal Geode
-				Tooltip: "'It glitters in the dark...'"
+				Tooltip: "'It glitters in the dark……'"
 			}
 
 			GeodeChestplate: {
@@ -9065,7 +8851,7 @@ Mods: {
 				DisplayName: Forgotten Cross Necklace
 				/* Tooltip:
 					'''
-					'Reminds you of an old friend...'
+					'Reminds you of an old friend……'
 					Healing spells will increase the healed targets defense by 14 for 15 seconds
 					Increases length of invincibility after taking damage
 					''' */
@@ -9337,7 +9123,7 @@ Mods: {
 
 			LifePoweredEnergyCell: {
 				DisplayName: Life-Powered Energy Cell
-				Tooltip: "'Without these, the grand mechanical creations are simple nuts and bolts...'"
+				Tooltip: "'Without these, the grand mechanical creations are simple nuts and bolts……'"
 			}
 
 			LifePulseStaff: {
@@ -9968,7 +9754,7 @@ Mods: {
 				DisplayName: Tesla Defibrillator
 				/* Tooltip:
 					'''
-					'It's alive!'
+					'It's alive！'
 					Unleashes a beam of heart stabilizing electricity
 					Heals an additional 5 life per lost 25% life on target ally
 					''' */
@@ -10218,7 +10004,7 @@ Mods: {
 				DisplayName: Flurry
 				/* Tooltip:
 					'''
-					'Unleash a flurry of ice!'
+					'Unleash a flurry of ice！'
 					Attacks might frostburn the target briefly
 					''' */
 			}
@@ -10361,7 +10147,7 @@ Mods: {
 
 			IllumiteIngot: {
 				DisplayName: Illumite Ingot
-				Tooltip: "'Glows a soft pink and barely weighs anything...'"
+				Tooltip: "'Glows a soft pink and barely weighs anything……'"
 			}
 
 			IllumiteJackhammer: {
@@ -10422,14 +10208,14 @@ Mods: {
 
 			CursedCloth: {
 				DisplayName: Cursed Cloth
-				Tooltip: "'The amount of dark energy within this simple piece of cloth is unimaginable...'"
+				Tooltip: "'The amount of dark energy within this simple piece of cloth is unimaginable……'"
 			}
 
 			LichCarapace: {
 				DisplayName: Lich's Carapace
 				/* Tooltip:
 					'''
-					'Embrace death...'
+					'Embrace death……'
 					20% increased throwing damage
 					30% increased throwing velocity
 					''' */
@@ -10439,7 +10225,7 @@ Mods: {
 				DisplayName: Lich's Cowl
 				/* Tooltip:
 					'''
-					'Embrace death...'
+					'Embrace death……'
 					10% increased throwing damage
 					33% chance not to consume thrown items
 					Increases your maximum technique points by 2
@@ -10455,7 +10241,7 @@ Mods: {
 				DisplayName: Lich's Talons
 				/* Tooltip:
 					'''
-					'Embrace death...'
+					'Embrace death……'
 					15% increased throwing damage
 					15% increased throwing critical strike chance
 					''' */
@@ -10495,7 +10281,7 @@ Mods: {
 				DisplayName: Spirit Band
 				/* Tooltip:
 					'''
-					'Your body has become incorporeal...'
+					'Your body has become incorporeal……'
 					While active, damage taken cannot exceed 150
 					This effect can only occur once every 10 seconds
 					''' */
@@ -10505,7 +10291,7 @@ Mods: {
 				DisplayName: The Lost Cross
 				/* Tooltip:
 					'''
-					'Reminds you of an old friend...'
+					'Reminds you of an old friend……'
 					Healing spells will increase the healed target's defense by 14 for 15 seconds
 					''' */
 			}
@@ -10576,7 +10362,7 @@ Mods: {
 
 			LodeStoneIngot: {
 				DisplayName: Lodestone Ingot
-				Tooltip: "'Try as you might, this stuff has become unbreakable!'"
+				Tooltip: "'Try as you might, this stuff has become unbreakable！'"
 			}
 
 			LodestoneJavelin: {
@@ -10828,7 +10614,7 @@ Mods: {
 				DisplayName: 血肠
 				Tooltip:
 					'''
-					“那只蝙蝠就是这样变大的吗?”
+					“那只蝙蝠就是这样变大的吗？”
 					召唤一只懒惰蝙蝠跟着你
 					'''
 			}
@@ -10936,7 +10722,7 @@ Mods: {
 				DisplayName: 低语之壳
 				Tooltip:
 					'''
-					“这是大海的声音还是别的什么声音?”
+					“这是大海的声音还是别的什么声音？”
 					不会召唤一个生物跟着你
 					'''
 			}
@@ -11408,7 +11194,7 @@ Mods: {
 
 			LifeQuartz: {
 				DisplayName: Life Quartz
-				Tooltip: "'It pulses in time with your heartbeat...'"
+				Tooltip: "'It pulses in time with your heartbeat……'"
 			}
 
 			LilGuppy: {
@@ -11571,7 +11357,7 @@ Mods: {
 				DisplayName: Seed of Hope
 				/* Tooltip:
 					'''
-					'Unless...'
+					'Unless……'
 					Planting acorns increases your movement speed and life recovery
 					''' */
 			}
@@ -11620,7 +11406,7 @@ Mods: {
 				DisplayName: Spirit's Grace
 				/* Tooltip:
 					'''
-					'Don't let it get you down...'
+					'Don't let it get you down……'
 					Your respawns happen 33% faster and give 15% more health
 					Your respawns also grant increased invulnerability time and movement speed
 					''' */
@@ -11745,7 +11531,7 @@ Mods: {
 
 			BlacksmithApron: {
 				DisplayName: Blacksmith's Apron
-				Tooltip: "'Forging power increased by 15%! ...Not really'"
+				Tooltip: "'Forging power increased by 15%！ ……Not really'"
 			}
 
 			BlisterSack: {
@@ -11772,7 +11558,7 @@ Mods: {
 				DisplayName: Cactus Fruit
 				/* Tooltip:
 					'''
-					'Despite the spikes, it looks kinda tasty...'
+					'Despite the spikes, it looks kinda tasty……'
 					Grants immunity to status effect debuffs upon consumption
 					''' */
 			}
@@ -11811,7 +11597,7 @@ Mods: {
 				DisplayName: Death Gazer's Glass
 				/* Tooltip:
 					'''
-					'Those that often gaze upon their death quickly turn mad...'
+					'Those that often gaze upon their death quickly turn mad……'
 					Teleports you to your last death location
 					''' */
 			}
@@ -11904,7 +11690,7 @@ Mods: {
 				DisplayName: Exile's Helmet
 				/* Tooltip:
 					'''
-					'When they turned their back on Terraria, he turned his back on them...'
+					'When they turned their back on Terraria, he turned his back on them……'
 					8% reduced damage taken
 					12% increased damage
 					6% increased critical strike chance
@@ -12058,7 +11844,7 @@ Mods: {
 				DisplayName: Monster Charm
 				/* Tooltip:
 					'''
-					'Let's get dangerous...'
+					'Let's get dangerous……'
 					While in combat, your damage, defense, and life recovery increase over time
 					''' */
 			}
@@ -12194,7 +11980,7 @@ Mods: {
 				DisplayName: Steam Flail
 				/* Tooltip:
 					'''
-					'Be careful if you set the fan speed to max!'
+					'Be careful if you set the fan speed to max！'
 					While grounded, it sucks in nearby enemies and slices them up
 					''' */
 			}
@@ -12220,7 +12006,7 @@ Mods: {
 
 			ThoriumCube: {
 				DisplayName: Thorium Cube
-				Tooltip: "'Jam this mineral onto your face, and play it cool...'"
+				Tooltip: "'Jam this mineral onto your face, and play it cool……'"
 			}
 
 			TommyGun: {
@@ -12264,7 +12050,7 @@ Mods: {
 
 			BlankPainting: {
 				DisplayName: Blank Painting
-				Tooltip: "'You could paint anything!'"
+				Tooltip: "'You could paint anything！'"
 			}
 
 			CuriousSeaLifePaint: {
@@ -12289,7 +12075,7 @@ Mods: {
 					'D. Man'
 					'This painting is to commemorate the brave Terrarians who gave
 					their lives to keep this world safe from the Thorium Menace
-					Lest we forget...'
+					Lest we forget……'
 					''' */
 			}
 
@@ -12700,12 +12486,12 @@ Mods: {
 
 			CheckeredBrick: {
 				DisplayName: Checkered Brick
-				Tooltip: "'Anyone up for a game of chess?'"
+				Tooltip: "'Anyone up for a game of chess？'"
 			}
 
 			CheckeredBrickWall: {
 				DisplayName: Checkered Brick Wall
-				Tooltip: "'Anyone up for a game of chess?'"
+				Tooltip: "'Anyone up for a game of chess？'"
 			}
 
 			CherryAstroturf: {
@@ -13751,7 +13537,7 @@ Mods: {
 
 			Mistletoe: {
 				DisplayName: Mistletoe
-				Tooltip: "'Best shared with that special someone... or a monster'"
+				Tooltip: "'Best shared with that special someone…… or a monster'"
 			}
 
 			MossyGoldOre: {
@@ -15347,7 +15133,7 @@ Mods: {
 
 			QueenJellyfishMask: {
 				DisplayName: Queen Jellyfish Mask
-				Tooltip: "'Those jellyfish won't suspect a thing...'"
+				Tooltip: "'Those jellyfish won't suspect a thing……'"
 			}
 
 			QueenJellyfishTrophy: {
@@ -15641,7 +15427,7 @@ Mods: {
 				DisplayName: Star Caller
 				/* Tooltip:
 					'''
-					'One should take proper precautions before contacting the unknown...'
+					'One should take proper precautions before contacting the unknown……'
 					Sends out a signal into outer space
 					Only usable high in the sky lands
 					''' */
@@ -15654,7 +15440,7 @@ Mods: {
 
 			StarScouterMask: {
 				DisplayName: Star Scouter Mask
-				Tooltip: "'Who's up for some star gazing?'"
+				Tooltip: "'Who's up for some star gazing？'"
 			}
 
 			StarScouterTrophy: {
@@ -16047,7 +15833,7 @@ Mods: {
 				/* Tooltip:
 					'''
 					{$Common.Tooltips.BannerPlacement}
-					While nearby, ...
+					While nearby, ……
 					''' */
 			}
 
@@ -16169,7 +15955,7 @@ Mods: {
 				DisplayName: Terrarium Breastplate
 				/* Tooltip:
 					'''
-					'All will fall before your might...'
+					'All will fall before your might……'
 					Maximum life increased by 25 & life regen increased by 3
 					15% increased damage
 					10% increased critical strike chance
@@ -16183,7 +15969,7 @@ Mods: {
 
 			TerrariumCore: {
 				DisplayName: Terrarium Core
-				Tooltip: "'Unimaginable power rests within...'"
+				Tooltip: "'Unimaginable power rests within……'"
 			}
 
 			TerrariumDefender: {
@@ -16207,7 +15993,7 @@ Mods: {
 				DisplayName: Terrarium Greaves
 				/* Tooltip:
 					'''
-					'All will fall before your might...'
+					'All will fall before your might……'
 					Maximum life increased by 15 & life regen increased by 2
 					5% increased damage
 					20% increased movement speed
@@ -16218,7 +16004,7 @@ Mods: {
 				DisplayName: Terrarium Helmet
 				/* Tooltip:
 					'''
-					'All will fall before your might...'
+					'All will fall before your might……'
 					Maximum life increased by 10 & life regen increased by 1
 					10% increased damage
 					Sight in the dark is improved
@@ -16894,7 +16680,7 @@ Mods: {
 				DisplayName: Plague Doctor's Garb
 				/* Tooltip:
 					'''
-					'What nasty concoction could you be brewing?'
+					'What nasty concoction could you be brewing？'
 					14% increased throwing damage
 					10% increased throwing velocity
 					''' */
@@ -16904,7 +16690,7 @@ Mods: {
 				DisplayName: Plague Doctor's Leggings
 				/* Tooltip:
 					'''
-					'What nasty concoction could you be brewing?'
+					'What nasty concoction could you be brewing？'
 					14% increased throwing damage
 					10% increased throwing critical strike chance
 					''' */
@@ -16914,7 +16700,7 @@ Mods: {
 				DisplayName: Plague Doctor's Mask
 				/* Tooltip:
 					'''
-					'What nasty concoction could you be brewing?'
+					'What nasty concoction could you be brewing？'
 					12% increased throwing damage
 					33% chance not to consume thrown items
 					Increases your maximum technique points by 1
@@ -17286,7 +17072,7 @@ Mods: {
 				DisplayName: Grand Flare Gun
 				/* Tooltip:
 					'''
-					'Aim to the skies!'
+					'Aim to the skies！'
 					Requires Storm Flares to function
 					Summons The Grand Thunder Bird, but only during the day in the desert
 					''' */
@@ -17326,7 +17112,7 @@ Mods: {
 				DisplayName: Zephyr's Grip
 				/* Tooltip:
 					'''
-					'Even at a young age, Grand Thunder Birds are incredibly powerful...'
+					'Even at a young age, Grand Thunder Birds are incredibly powerful……'
 					Hatchlings will grab onto the fully-extended hook when aimed upwards
 					Hatchlings provide a midair grapple that temporarily slows your fall
 					Hold UP to further decelerate your fall, and DOWN to cancel slow fall
@@ -17451,7 +17237,7 @@ Mods: {
 				DisplayName: Cursed Hammer
 				/* Tooltip:
 					'''
-					'The wielder isn't the recipient of the curse...'
+					'The wielder isn't the recipient of the curse……'
 					Swinging at allies propels them forwards and briefly increases their damage reduction
 					Propelled allies also deal a large amount of damage to enemies they impact
 					''' */
@@ -17510,7 +17296,7 @@ Mods: {
 				DisplayName: Icy Gaze
 				/* Tooltip:
 					'''
-					'This thing gives you the chills!'
+					'This thing gives you the chills！'
 					Releases a beam of frost that significantly hinders non-boss enemy movement on hit
 					''' */
 			}
@@ -17565,7 +17351,7 @@ Mods: {
 
 			TheAlmightyRecipe: {
 				DisplayName: The Almighty Recipe
-				Tooltip: "'Nearly lost to time...'"
+				Tooltip: "'Nearly lost to time……'"
 			}
 
 			TheBlackBlade: {
@@ -18011,7 +17797,7 @@ Mods: {
 
 			LootLurer: {
 				DisplayName: Loot Lurer
-				Tooltip: "'Motivation!'"
+				Tooltip: "'Motivation！'"
 			}
 
 			MeteorMask: {
@@ -18152,7 +17938,7 @@ Mods: {
 				DisplayName: Arcane Spike
 				/* Tooltip:
 					'''
-					'Balloons beware!'
+					'Balloons beware！'
 					Unleashes a magical barrage of arcane energy
 					''' */
 			}
@@ -18230,7 +18016,7 @@ Mods: {
 				DisplayName: Penguin Wand
 				/* Tooltip:
 					'''
-					'Could bring the Moon Lord to his knees...'
+					'Could bring the Moon Lord to his knees……'
 					Does something cataclysmic on use
 					''' */
 			}
@@ -18354,21 +18140,21 @@ Mods: {
 
 			TheGauntlet: {
 				DisplayName: The Gauntlet
-				Tooltip: "'Attempts to eradicate half of all living things... including yourself'"
+				Tooltip: "'Attempts to eradicate half of all living things…… including yourself'"
 			}
 
 			TheTruePenguinWand: {
 				DisplayName: The True Penguin Wand
 				/* Tooltip:
 					'''
-					'Even a reality ending dream eater would lose to this...'
+					'Even a reality ending dream eater would lose to this……'
 					Breaks the fabric of reality on use, caution is advised
 					''' */
 			}
 
 			ThoriumPartyHat: {
 				DisplayName: Thorium Party Hat
-				Tooltip: "'Thanks for the continued support, everyone!'"
+				Tooltip: "'Thanks for the continued support, everyone！'"
 			}
 
 			ViscountRequirement: {
@@ -18378,13 +18164,13 @@ Mods: {
 
 			WeirdMud: {
 				DisplayName: Annoying Mud
-				Tooltip: "'Lest we forget...'"
+				Tooltip: "'Lest we forget……'"
 			}
 
 			RemovedItems: {
 				/* Tooltip:
 					'''
-					'An object from an age long past...'
+					'An object from an age long past……'
 					This item no longer exists in the game. If it's used by another mod in some way, contact the other mod's developer
 					''' */
 				DarksteelMace.DisplayName: Darksteel Mace
@@ -18458,7 +18244,7 @@ Mods: {
 
 			ArmyAnt: {
 				DisplayName: 军蚁
-				BestiaryFlavorText: 一只被严重咬伤的大蚂蚁。你应该感谢你没有偶然发现它的巢穴!
+				BestiaryFlavorText: 一只被严重咬伤的大蚂蚁。你应该感谢你没有偶然发现它的巢穴！
 			}
 
 			AstroBeetle: {
@@ -18515,18 +18301,18 @@ Mods: {
 
 				TownNPCMood: {
 					Content: 我当然没事，呆瓜！你为什么还要问？
-					NoHome: 什么？我还得自己盖房子吗？快去干活!
+					NoHome: 什么？我还得自己盖房子吗？快去干活！
 					FarFromHome: 哼，如果我一直被关在你称之为我的家的那个火柴盒里，那我什么都做不了。.
 					LoveSpace: 当我停止敲打时，这里也是如此的平和且安静.
 					DislikeCrowded: 这里人太多了，我不喜欢。我喜欢更多的空间.
-					HateCrowded: 我怎么能在这种整天都有人能撞到我的地方来锻造东西？能不能让这些外行滚出去!
-					LikeBiome: What better place to start forging than right next to the materials I'm using?
-					HateBiome: Dunno how I got in this absolute hazard of a place, brat, but you best help me out of here!
+					HateCrowded: 我怎么能在这种整天都有人能撞到我的地方来锻造东西？能不能让这些外行滚出去！
+					LikeBiome: What better place to start forging than right next to the materials I'm using？
+					HateBiome: Dunno how I got in this absolute hazard of a place, brat, but you best help me out of here！
 					LoveNPC: Even though I'll mess with {NPCName} from time to time, he's always my go to for a drinking buddy.
 					LikeNPC: Quiet, stoic, knows when to act. I like {NPCName}.
-					DislikeNPC: "{NPCName} really boils my blood sometimes. He'd be a prime customer! But no, all he wants is his axe fixed..."
+					DislikeNPC: "{NPCName} really boils my blood sometimes. He'd be a prime customer！ But no, all he wants is his axe fixed……"
 					LikeNPC_Princess: A brat's a brat, but {NPCName} has a soft spot in my heart.
-					Princess_LovesNPC: "{NPCName} helped me fix my tiara, I'm so grateful!"
+					Princess_LovesNPC: "{NPCName} helped me fix my tiara, I'm so grateful！"
 				}
 
 				Census.SpawnCondition: Defeat the {$NPCName.EyeofCthulhu}
@@ -18534,12 +18320,12 @@ Mods: {
 
 			BlackWidowWall: {
 				DisplayName: Black Widow
-				BestiaryFlavorText: Ths stealthy spider's venom is potent enough to corrode steel. What do you think it'll do to a Terrarian...?
+				BestiaryFlavorText: Ths stealthy spider's venom is potent enough to corrode steel. What do you think it'll do to a Terrarian……？
 			}
 
 			Blister: {
 				DisplayName: Blister
-				BestiaryFlavorText: A swollen sack filled to the brim with corrosive ichor. Even the smallest touch could release its contents!
+				BestiaryFlavorText: A swollen sack filled to the brim with corrosive ichor. Even the smallest touch could release its contents！
 			}
 
 			BlisterPod: {
@@ -18584,7 +18370,7 @@ Mods: {
 
 			SnowElemental: {
 				DisplayName: Snow Elemental
-				BestiaryFlavorText: An icy elemental packed to the brim with snow. Likes to explode in a beautiful flurry of snow... and death.
+				BestiaryFlavorText: An icy elemental packed to the brim with snow. Likes to explode in a beautiful flurry of snow…… and death.
 			}
 
 			SnowyOwl: {
@@ -18594,7 +18380,7 @@ Mods: {
 
 			Abomination: {
 				DisplayName: Abomination
-				BestiaryFlavorText: The stitched remains of various zombies. The stitches themselves have seen better days...
+				BestiaryFlavorText: The stitched remains of various zombies. The stitches themselves have seen better days……
 			}
 
 			BloodDrop: {
@@ -18626,7 +18412,7 @@ Mods: {
 
 			GraveLimb: {
 				DisplayName: Grave Limb
-				BestiaryFlavorText: A stubborn necrotic appendage that likes to tear off faces. Truly the worst face massage you'll ever receive!
+				BestiaryFlavorText: A stubborn necrotic appendage that likes to tear off faces. Truly the worst face massage you'll ever receive！
 			}
 
 			PatchWerk: {
@@ -18637,7 +18423,7 @@ Mods: {
 
 			SeveredLegs: {
 				DisplayName: Severed Legs
-				BestiaryFlavorText: These legs were made for walking, and that's just what they'll do... well, really that's all they can do.
+				BestiaryFlavorText: These legs were made for walking, and that's just what they'll do…… well, really that's all they can do.
 			}
 
 			SmotheringShade: {
@@ -18655,7 +18441,7 @@ Mods: {
 
 			CorpseWeed: {
 				DisplayName: Corpse Weed
-				BestiaryFlavorText: The living roots of a Corpse Bloom can be just as dangerous as its host plant. Perhaps even moreso!
+				BestiaryFlavorText: The living roots of a Corpse Bloom can be just as dangerous as its host plant. Perhaps even moreso！
 			}
 
 			BloomMahoganyEnt: {
@@ -18709,21 +18495,21 @@ Mods: {
 				BestiaryFlavorText: The Cobbler has long since retired from his heroing days, but he provides quality footwear to the next generation.
 
 				TownNPCMood: {
-					Content: I've got a pep in my step, don't you worry!
-					NoHome: It's hard to work when I don't have a workstation. Think you could help me out?
-					FarFromHome: I'll need to touch up my shoes again when I get back home...
-					LoveSpace: It's easiest to focus on my work when I have some space to myself, so I'm quite chipper!
-					DislikeCrowded: Quite a few too many people around here, don't you think?
+					Content: I've got a pep in my step, don't you worry！
+					NoHome: It's hard to work when I don't have a workstation. Think you could help me out？
+					FarFromHome: I'll need to touch up my shoes again when I get back home……
+					LoveSpace: It's easiest to focus on my work when I have some space to myself, so I'm quite chipper！
+					DislikeCrowded: Quite a few too many people around here, don't you think？
 					HateCrowded: I can't keep up with all these shoe orders. I think it's a little too crowded over here.
 					LikeBiome: The forest really is the best place to walk around in. No annoying sand. No annoying snow. No annoying gravel. You get the idea.
-					DislikeBiome: I'm too old to deal with getting the sand and water out of my shoes...
-					HateBiome: If I were younger I could handle a place like this, but now I'm too old!
+					DislikeBiome: I'm too old to deal with getting the sand and water out of my shoes……
+					HateBiome: If I were younger I could handle a place like this, but now I'm too old！
 					LoveNPC: Now if anyone here gets the importance of good footwear, it would be {NPCName}. Their footwear is well crafted indeed.
 					LikeNPC: Talking with {NPCName} can always put me at ease. Even I need reassurance sometimes.
 					DislikeNPC: "{NPCName} needs to put on some shoes before they lose their footing and trip."
-					HateNPC: Not a fan of {NPCName} trying to help the wounded in heels, of all things. You kiddos are just asking for an accident...
+					HateNPC: Not a fan of {NPCName} trying to help the wounded in heels, of all things. You kiddos are just asking for an accident……
 					LikeNPC_Princess: "{NPCName} really is the type of person you can't help but dote over."
-					Princess_LovesNPC: "{NPCName} is super skilled! Never had my slippers shine so well!"
+					Princess_LovesNPC: "{NPCName} is super skilled！ Never had my slippers shine so well！"
 				}
 
 				Census.SpawnCondition: Have any kind of shoe accessory in your inventory ([i/s1:Aglet][i/s1:HermesBoots][i/s1:RocketBoots][i/s1:WaterWalkingBoots] etc.)
@@ -18752,23 +18538,23 @@ Mods: {
 
 			ConfusedZombie: {
 				DisplayName: Confused Zombie
-				BestiaryFlavorText: The Confused Zombie is a chemist turned zombie. While he's managed to keep most of his right mind, he's still a little weird...
+				BestiaryFlavorText: The Confused Zombie is a chemist turned zombie. While he's managed to keep most of his right mind, he's still a little weird……
 
 				TownNPCMood: {
 					Content: I'm nice and lively, thanks.
-					NoHome: Ah, I seemed to have forgotten where my home was. Could you help me out with that?
-					FarFromHome: Walk ten paces, check around, if I ain't home, then... how did that one go...
+					NoHome: Ah, I seemed to have forgotten where my home was. Could you help me out with that？
+					FarFromHome: Walk ten paces, check around, if I ain't home, then…… how did that one go……
 					LoveSpace: Love me some empty space, it lets me not worry about others when I'm making my repellents.
-					DislikeCrowded: My neighbors are becoming quite rude to me simply because of what I am, this is so sad...
-					HateCrowded: So many people here... a full buffet... O-oh, you didn't hear anything, did you?
-					LikeBiome: The forest just... makes me happy, like I belong here.
-					DislikeBiome: It's already quite the challenge to move these joints, the cold really doesn't help!
-					HateBiome: Do I like it here... Do I fear for my life... Do I lik- Nope. Nope. Out.
-					LoveNPC: "{NPCName} always helps open doors for me, he's so considerate!"
+					DislikeCrowded: My neighbors are becoming quite rude to me simply because of what I am, this is so sad……
+					HateCrowded: So many people here…… a full buffet…… O-oh, you didn't hear anything, did you？
+					LikeBiome: The forest just…… makes me happy, like I belong here.
+					DislikeBiome: It's already quite the challenge to move these joints, the cold really doesn't help！
+					HateBiome: Do I like it here…… Do I fear for my life…… Do I lik- Nope. Nope. Out.
+					LoveNPC: "{NPCName} always helps open doors for me, he's so considerate！"
 					LikeNPC: I feel an odd, but good connection with {NPCName}. Dunno why, I just feel it.
-					DislikeNPC: You can barely see it under the hood, but I think {NPCName} keeps giving me really weird looks...
-					LikeNPC_Princess: "{NPCName} looks strawberry-flavored... Ah, I was just mumbling to myself!"
-					Princess_LovesNPC: Heehee, {NPCName} makes such goofy faces!
+					DislikeNPC: You can barely see it under the hood, but I think {NPCName} keeps giving me really weird looks……
+					LikeNPC_Princess: "{NPCName} looks strawberry-flavored…… Ah, I was just mumbling to myself！"
+					Princess_LovesNPC: Heehee, {NPCName} makes such goofy faces！
 				}
 
 				Census.SpawnCondition: Defeat [c/4dffb8:{$NPCs.PatchWerk.DisplayName}] during a Blood Moon
@@ -18801,20 +18587,20 @@ Mods: {
 
 				TownNPCMood: {
 					Content: I'm good, just thinking about my next recipe.
-					NoHome: You wouldn't happen to have an unoccupied kitchen I can use, would you?
+					NoHome: You wouldn't happen to have an unoccupied kitchen I can use, would you？
 					FarFromHome: I guess while I'm out here, I might as well find some ingredients.
 					LoveSpace: Having taste testers is nice, but being able to sit back and relax is nicer.
-					DislikeCrowded: Did they want it with or without cheese...? Ugh, I need less orders to take around here.
-					HateCrowded: The amount of people to feed here is beyond overwhelming, even I need a break sometimes!
-					LikeBiome: Now this is my kind of place. Tons of unique fungus and fauna to form recipes around!
-					DislikeBiome: Not much to work with down here underground. Except moss...
-					HateBiome: Get me out of here, before I become the next meal for these monsters!
-					LoveNPC: Now {NPCName} is a real gourmand. He's my best taste tester!
+					DislikeCrowded: Did they want it with or without cheese……？ Ugh, I need less orders to take around here.
+					HateCrowded: The amount of people to feed here is beyond overwhelming, even I need a break sometimes！
+					LikeBiome: Now this is my kind of place. Tons of unique fungus and fauna to form recipes around！
+					DislikeBiome: Not much to work with down here underground. Except moss……
+					HateBiome: Get me out of here, before I become the next meal for these monsters！
+					LoveNPC: Now {NPCName} is a real gourmand. He's my best taste tester！
 					LikeNPC: I didn't use to cook with mushrooms that much, but living near {NPCName} gave me a new perspective on them.
-					DislikeNPC: Ugh... {NPCName} is such a picky eater. He refuses to eat anything other than fried fish sticks!
-					HateNPC: It's nothing personal, but since {NPCName} can't actually eat food, I find his presence really... distracting.
-					LikeNPC_Princess: "{NPCName} is a joy to listen to while I cook!"
-					Princess_LovesNPC: "{NPCName} makes the most amazing treats!"
+					DislikeNPC: Ugh…… {NPCName} is such a picky eater. He refuses to eat anything other than fried fish sticks！
+					HateNPC: It's nothing personal, but since {NPCName} can't actually eat food, I find his presence really…… distracting.
+					LikeNPC_Princess: "{NPCName} is a joy to listen to while I cook！"
+					Princess_LovesNPC: "{NPCName} makes the most amazing treats！"
 				}
 
 				Census.SpawnCondition: Defeat the {$NPCName.KingSlime}
@@ -18831,11 +18617,11 @@ Mods: {
 				BestiaryFlavorText: Elite guards that once faithfully served the Dungeon in its glory days. Though their flesh is gone, their loyalty is not.
 			}
 
-			AbyssalAngler.DisplayName: Gold Coin?
+			AbyssalAngler.DisplayName: Gold Coin？
 
 			AbyssalAngler2: {
 				DisplayName: Abyssal Angler
-				BestiaryFlavorText: Bright lights can attract a fish's attention, but what attracts a Terrarian's attention? That's right, coins!
+				BestiaryFlavorText: Bright lights can attract a fish's attention, but what attracts a Terrarian's attention？ That's right, coins！
 			}
 
 			AbyssalSpawn: {
@@ -18865,12 +18651,12 @@ Mods: {
 
 			Blobfish: {
 				DisplayName: Blobfish
-				BestiaryFlavorText: The ugliest little creature in all of the Aquatic Depths. All he wants is a hug...
+				BestiaryFlavorText: The ugliest little creature in all of the Aquatic Depths. All he wants is a hug……
 			}
 
 			Blowfish: {
 				DisplayName: Blowfish
-				BestiaryFlavorText: Don't blow off this blowhard, they'll blow your socks off when brought down!
+				BestiaryFlavorText: Don't blow off this blowhard, they'll blow your socks off when brought down！
 			}
 
 			BlueLobster: {
@@ -18920,7 +18706,7 @@ Mods: {
 
 			Hammerhead: {
 				DisplayName: Hammerhead
-				BestiaryFlavorText: This poor guy couldn't figure out how to stand out among his shark friends... until he decided to use his head.
+				BestiaryFlavorText: This poor guy couldn't figure out how to stand out among his shark friends…… until he decided to use his head.
 			}
 
 			Kraken: {
@@ -18980,7 +18766,7 @@ Mods: {
 
 			Whale: {
 				DisplayName: The Whale
-				BestiaryFlavorText: One of the most magnificent creatures the world has ever seen. Only true monsters would even think about harming one!
+				BestiaryFlavorText: One of the most magnificent creatures the world has ever seen. Only true monsters would even think about harming one！
 			}
 
 			DesertAcolyte: {
@@ -18989,19 +18775,19 @@ Mods: {
 
 				TownNPCMood: {
 					Content: I don't see any danger around here, so I'm feeling quite alright.
-					NoHome: I'm hoping you can help me find a safe place to rest. The sooner I find a protected home, the better...
-					FarFromHome: Oh, how did I find myself all the way out here...
+					NoHome: I'm hoping you can help me find a safe place to rest. The sooner I find a protected home, the better……
+					FarFromHome: Oh, how did I find myself all the way out here……
 					LoveSpace: Less people is always nice, and I don't have to worry about much in my home.
 					DislikeCrowded: While there is certainly safety in numbers, I'm getting a little antsy with so many people here.
-					HateCrowded: It's too crowded here! I feel like I'm being surrounded.
-					LikeBiome: Ah, I feel right at home... Any approaching threat could be seen for miles with such sparse land.
-					DislikeBiome: W-what was that noise?! I'm so far away from the desert, subjected to horrid bugs and horrider mud!
-					HateBiome: It's all wrong... No... Please help me get out of here!
-					LikeNPC: Ah, having {NPCName} close to me makes me feel a lot safer!
-					DislikeNPC: Having {NPCName} around here is just asking for trouble...
+					HateCrowded: It's too crowded here！ I feel like I'm being surrounded.
+					LikeBiome: Ah, I feel right at home…… Any approaching threat could be seen for miles with such sparse land.
+					DislikeBiome: W-what was that noise？！ I'm so far away from the desert, subjected to horrid bugs and horrider mud！
+					HateBiome: It's all wrong…… No…… Please help me get out of here！
+					LikeNPC: Ah, having {NPCName} close to me makes me feel a lot safer！
+					DislikeNPC: Having {NPCName} around here is just asking for trouble……
 					HateNPC: I know they mean no harm, but I can't stand being near {NPCName}. I have some bad memories with their kind.
-					LikeNPC_Princess: Such a strange feeling... I feel like protecting {NPCName} even over myself!
-					Princess_LovesNPC: "{NPCName} is the best guy in town to play hide-and-seek with!"
+					LikeNPC_Princess: Such a strange feeling…… I feel like protecting {NPCName} even over myself！
+					Princess_LovesNPC: "{NPCName} is the best guy in town to play hide-and-seek with！"
 				}
 
 				Census.SpawnCondition: Defeat [c/4dffb8:{$NPCs.TheGrandThunderBird.DisplayName}]
@@ -19018,20 +18804,20 @@ Mods: {
 				BestiaryFlavorText: The Diverman is a curious adventurer that’s searching for the elusive Aquatic Depths. He’s willing to sell you some sunken treasures.
 
 				TownNPCMood: {
-					Content: I'm doing alright, how about yourself?
-					NoHome: Last time I didn't have a home, things went poorly with a certain pink colored gelatinous mutant...
+					Content: I'm doing alright, how about yourself？
+					NoHome: Last time I didn't have a home, things went poorly with a certain pink colored gelatinous mutant……
 					FarFromHome: Don't mind me. With this diving gear, I should be just fine on my way home.
-					LoveSpace: We could use a few more familiar faces around here, wouldn't you agree?
-					DislikeCrowded: While I love this cast of characters as much as the next guy, maybe there are too many here?
-					HateCrowded: I can't think straight with all this noise around me. I need my space!
-					LikeBiome: Beautiful sands, beautiful waters; what more could a diver want?
-					DislikeBiome: The desert?! This place is the worst! Antlion eggs, rolling cacti, digging worms. Don't even get me started on it if this place were to be corrupted...
-					HateBiome: Well this place is pretty sinister, isn't it...?
-					LoveNPC: Being isolated in the Depths for so long can really darken someone's mood. Thankfully {NPCName} can always bring a smile to my face...
+					LoveSpace: We could use a few more familiar faces around here, wouldn't you agree？
+					DislikeCrowded: While I love this cast of characters as much as the next guy, maybe there are too many here？
+					HateCrowded: I can't think straight with all this noise around me. I need my space！
+					LikeBiome: Beautiful sands, beautiful waters; what more could a diver want？
+					DislikeBiome: The desert？！ This place is the worst！ Antlion eggs, rolling cacti, digging worms. Don't even get me started on it if this place were to be corrupted……
+					HateBiome: Well this place is pretty sinister, isn't it……？
+					LoveNPC: Being isolated in the Depths for so long can really darken someone's mood. Thankfully {NPCName} can always bring a smile to my face……
 					LikeNPC: You wouldn't believe it, but {NPCName} and I go way back. He wasn't always a saltwater scourge, yunno'.
-					DislikeNPC: That little twerp, {NPCName}, thinks he knows so much about the sea...
-					LikeNPC_Princess: Everyone sure seems to like {NPCName}... Can't say I understand why.
-					Princess_LovesNPC: "{NPCName} tells such amazing stories of what's under the sea!"
+					DislikeNPC: That little twerp, {NPCName}, thinks he knows so much about the sea……
+					LikeNPC_Princess: Everyone sure seems to like {NPCName}…… Can't say I understand why.
+					Princess_LovesNPC: "{NPCName} tells such amazing stories of what's under the sea！"
 				}
 
 				Census.SpawnCondition: Defeat the [c/4dffb8:{$NPCs.QueenJellyfish.DisplayName}]
@@ -19043,20 +18829,20 @@ Mods: {
 				BestiaryFlavorText: The Druid loves plants in all shapes and sizes. She'll sell you seeds and other natural items to suit your needs.
 
 				TownNPCMood: {
-					Content: I'm as fresh as a daisy, thanks for asking!
-					NoHome: Ah, the great outdoors...
-					FarFromHome: Oh hello! I was just gathering some herbs around this area. It's always fun to go far out from home and explore!
-					LoveSpace: Feeling as great as a lone tree atop a hill!
+					Content: I'm as fresh as a daisy, thanks for asking！
+					NoHome: Ah, the great outdoors……
+					FarFromHome: Oh hello！ I was just gathering some herbs around this area. It's always fun to go far out from home and explore！
+					LoveSpace: Feeling as great as a lone tree atop a hill！
 					DislikeCrowded: Talking to your plants is good and all, but even they need some quiet time.
-					HateCrowded: This place has got far too many people, I can't go a day without someone trampling on my herbs!
-					LikeBiome: Well, it really shouldn't come as a surprise that I love the jungle, I practically grew up here!
-					DislikeBiome: This frozen tundra is no place to grow my flowers! ...Well I guess one of them could grow here, but that's besides the point!
+					HateCrowded: This place has got far too many people, I can't go a day without someone trampling on my herbs！
+					LikeBiome: Well, it really shouldn't come as a surprise that I love the jungle, I practically grew up here！
+					DislikeBiome: This frozen tundra is no place to grow my flowers！ ……Well I guess one of them could grow here, but that's besides the point！
 					HateBiome: I doubt much could bloom in such a nefarious place.
-					LikeNPC: Ever since I was a child, I've always wanted to meet a Dryad. What luck it is to find {NPCName} here!
-					DislikeNPC: That darn {NPCName} keeps setting fire to the grass with his explosives!
-					HateNPC: *cough* *cough* All that steam and smoke {NPCName}'s gadgets produce is giving me a headache...
-					LikeNPC_Princess: "{NPCName} is such a little sunflower. C'mon, you can't hate a girl who can make small woodland creatures flock to her whenever she sings!"
-					Princess_LovesNPC: "{NPCName} assembles the loveliest flower bouquets!"
+					LikeNPC: Ever since I was a child, I've always wanted to meet a Dryad. What luck it is to find {NPCName} here！
+					DislikeNPC: That darn {NPCName} keeps setting fire to the grass with his explosives！
+					HateNPC: *cough* *cough* All that steam and smoke {NPCName}'s gadgets produce is giving me a headache……
+					LikeNPC_Princess: "{NPCName} is such a little sunflower. C'mon, you can't hate a girl who can make small woodland creatures flock to her whenever she sings！"
+					Princess_LovesNPC: "{NPCName} assembles the loveliest flower bouquets！"
 				}
 
 				Census.SpawnCondition: Defeat [c/4dffb8:{$NPCs.CorpseBloom.DisplayName}] in the post-Skeletron Jungle
@@ -19079,7 +18865,7 @@ Mods: {
 
 			FireAnt: {
 				DisplayName: Army Ant
-				BestiaryFlavorText: A massive ant with a burning bite. Just be thankful you haven't stumbled across its home nest!
+				BestiaryFlavorText: A massive ant with a burning bite. Just be thankful you haven't stumbled across its home nest！
 			}
 
 			FlamekinCaster: {
@@ -19094,7 +18880,7 @@ Mods: {
 
 			FrostFangWall: {
 				DisplayName: Frost Fang
-				BestiaryFlavorText: An icy spider that fires ice instead of web. Not because it can't, but because it's going for a theme, you know?
+				BestiaryFlavorText: An icy spider that fires ice instead of web. Not because it can't, but because it's going for a theme, you know？
 			}
 
 			FrostWurmHead: {
@@ -19104,7 +18890,7 @@ Mods: {
 
 			FrozenFace: {
 				DisplayName: Frozen Face
-				BestiaryFlavorText: The Brain of Cthulhu tried to warn them if they kept making that face, it would get frozen that way...
+				BestiaryFlavorText: The Brain of Cthulhu tried to warn them if they kept making that face, it would get frozen that way……
 			}
 
 			FrozenGross: {
@@ -19262,7 +19048,7 @@ Mods: {
 
 			LihzardMimic: {
 				DisplayName: Lihzahrd Mimic
-				BestiaryFlavorText: An invasive species of mimic that has found its way into the Temple. The Lihzahrds donÕt seem to mind...
+				BestiaryFlavorText: An invasive species of mimic that has found its way into the Temple. The Lihzahrds donÕt seem to mind……
 			}
 
 			LihzardPotMimic1: {
@@ -19287,7 +19073,7 @@ Mods: {
 
 			MartianScout: {
 				DisplayName: Martian Scout
-				BestiaryFlavorText: This alien has come to survey the environment and serve as a harbinger of things to come...
+				BestiaryFlavorText: This alien has come to survey the environment and serve as a harbinger of things to come……
 			}
 
 			MartianSentry: {
@@ -19342,9 +19128,9 @@ Mods: {
 
 			PeculiarMirror: {
 				DisplayName: Peculiar Mirror
-				BestiaryFlavorText: An ordinary-looking, if fancy, mirror in the Dungeon. Surely nothing bad will happen if you get a little closer to it, right?
+				BestiaryFlavorText: An ordinary-looking, if fancy, mirror in the Dungeon. Surely nothing bad will happen if you get a little closer to it, right？
 				Button: Touch
-				WarningFallback: Something is coming!
+				WarningFallback: Something is coming！
 			}
 
 			Aquaius: {
@@ -19366,7 +19152,7 @@ Mods: {
 
 			DreamEater: {
 				DisplayName: Dream Eater
-				BestiaryFlavorText: Cosmic Janitor. Dying Reality. The Dream Eater. This entity seeks to erase everything that it deems disruptive to the cosmic clockwork. Save the world, hero!
+				BestiaryFlavorText: Cosmic Janitor. Dying Reality. The Dream Eater. This entity seeks to erase everything that it deems disruptive to the cosmic clockwork. Save the world, hero！
 			}
 
 			SlagFury: {
@@ -19410,7 +19196,7 @@ Mods: {
 
 			ScissorStalker: {
 				DisplayName: Scissor Stalker
-				BestiaryFlavorText: There's no use trying to hide from this scissor-wielding murderer. When he inevitably finds you, you'll swear he's teleporting!
+				BestiaryFlavorText: There's no use trying to hide from this scissor-wielding murderer. When he inevitably finds you, you'll swear he's teleporting！
 			}
 
 			BioCore: {
@@ -19436,7 +19222,7 @@ Mods: {
 
 			SeaShantySinger: {
 				DisplayName: Sea-Shanty Singer
-				BestiaryFlavorText: Pirates are a rowdy bunch, but when a shanty is in the air, they get even more trigger-happy!
+				BestiaryFlavorText: Pirates are a rowdy bunch, but when a shanty is in the air, they get even more trigger-happy！
 			}
 
 			ShadowflameRevenant: {
@@ -19451,7 +19237,7 @@ Mods: {
 
 			SnowBall: {
 				DisplayName: Snow Ball
-				BestiaryFlavorText: These guys take the idea of snowball fights and roll with it a little too much!
+				BestiaryFlavorText: These guys take the idea of snowball fights and roll with it a little too much！
 			}
 
 			SnowEater: {
@@ -19476,7 +19262,7 @@ Mods: {
 
 			SpaceSlime: {
 				DisplayName: Space Slime
-				BestiaryFlavorText: Apparently slimes exist on other planets, too. Who knew?
+				BestiaryFlavorText: Apparently slimes exist on other planets, too. Who knew？
 			}
 
 			Spectrumite: {
@@ -19496,14 +19282,14 @@ Mods: {
 					DislikeCrowded: I feel some minor discomfort from the others. I think they need more space.
 					HateCrowded: The others are feeling quite overcrowded. We all need our space to grow as people.
 					LikeBiome: Ah, now this is a place ripe with spiritual energy.
-					DislikeBiome: The deeper into the earth I go, the more I feel that dark energy from below... I don't like this feeling.
-					HateBiome: What has happened to the spirits here...?! How repugnant!
-					LoveNPC: "{NPCName} gives me the most wonderful haircuts. She really helps with my self expression!"
+					DislikeBiome: The deeper into the earth I go, the more I feel that dark energy from below…… I don't like this feeling.
+					HateBiome: What has happened to the spirits here……？！ How repugnant！
+					LoveNPC: "{NPCName} gives me the most wonderful haircuts. She really helps with my self expression！"
 					LikeNPC: "{NPCName} and I spent all of last night discussing philosophy. That one has a wise head on his shoulders."
-					DislikeNPC: Though he says he's decided to align himself with us, {NPCName} is still a demon. Demons are known for telling lies, my friend...
-					HateNPC: "{NPCName} is truly a man only concerned with himself... We will never get along."
+					DislikeNPC: Though he says he's decided to align himself with us, {NPCName} is still a demon. Demons are known for telling lies, my friend……
+					HateNPC: "{NPCName} is truly a man only concerned with himself…… We will never get along."
 					LikeNPC_Princess: "{NPCName}'s cheerful innocence brightens up everyone's spirits."
-					Princess_LovesNPC: "{NPCName} has such a calming aura to him!"
+					Princess_LovesNPC: "{NPCName} has such a calming aura to him！"
 				}
 
 				Census.SpawnCondition: Defeat the [c/4dffb8:{$NPCs.BuriedChampion.DisplayName}]
@@ -19512,7 +19298,7 @@ Mods: {
 
 			StrangeBulb: {
 				DisplayName: Strange Bulb
-				BestiaryFlavorText: A bizarre species of plant that hasn't reached its maturity yet. Maybe that's for the best...
+				BestiaryFlavorText: A bizarre species of plant that hasn't reached its maturity yet. Maybe that's for the best……
 			}
 
 			SunPriestess: {
@@ -19556,21 +19342,21 @@ Mods: {
 				BestiaryFlavorText: The Tracker belongs to an order of warriors dedicated to finding and dispatching rare creatures. Help him and he'll help you.
 
 				TownNPCMood: {
-					Content: Kid, I can't complain about much, now can I?
+					Content: Kid, I can't complain about much, now can I？
 					NoHome: With a proper home, we can get down to business and start hunting some real threats.
-					FarFromHome: Hey there, Kid. You staying safe out here?
-					LoveSpace: Loads of space for me to swing this axe without fearing bashing the wrong mook, it's great!
-					DislikeCrowded: I'm starting to feel a bit claustrophobic...
-					HateCrowded: It's hard enough to navigate a space with my size as it is, there's too many people here!
+					FarFromHome: Hey there, Kid. You staying safe out here？
+					LoveSpace: Loads of space for me to swing this axe without fearing bashing the wrong mook, it's great！
+					DislikeCrowded: I'm starting to feel a bit claustrophobic……
+					HateCrowded: It's hard enough to navigate a space with my size as it is, there's too many people here！
 					LikeBiome: Ah feels like home with all this snow around. My people like it cold up in the north.
 					DislikeBiome: It's a pain to track down monsters when you start in such a safe place.
-					HateBiome: I would say 'let's get down to business', but maybe it's a bit TOO dangerous here...
-					LoveNPC: If there's anyone in town that can give me a run for my money in an arm wrestling competition, it's {NPCName}. Love that guy!
+					HateBiome: I would say 'let's get down to business', but maybe it's a bit TOO dangerous here……
+					LoveNPC: If there's anyone in town that can give me a run for my money in an arm wrestling competition, it's {NPCName}. Love that guy！
 					LikeNPC: If there's anyone I can count on around here to know their stuff it's {NPCName}.
 					DislikeNPC: "{NPCName} just goes on and on about getting his robes dirty instead of getting the job done. Not a fan of that."
 					HateNPC: "{NPCName} just doesn't understand the importance of standing and fighting. It sickens me."
 					LikeNPC_Princess: That's why we do what we do. To protect innocent kids like {NPCName}.
-					Princess_LovesNPC: "{NPCName} makes me feel so tall when he gives me a piggyback ride!"
+					Princess_LovesNPC: "{NPCName} makes me feel so tall when he gives me a piggyback ride！"
 				}
 
 				Census.SpawnCondition: Defeat the {$NPCName.EyeofCthulhu}
@@ -19598,21 +19384,21 @@ Mods: {
 				BestiaryFlavorText: The Weapon Master is a demonic exile who has sided with the forces of good. Don't let his stoic demeanor fool you, he's a real softy.
 
 				TownNPCMood: {
-					Content: ...I'm fine.
-					NoHome: I'll be fine on my own, although I would prefer to have a place to live...
-					FarFromHome: Don't worry about me...
+					Content: ……I'm fine.
+					NoHome: I'll be fine on my own, although I would prefer to have a place to live……
+					FarFromHome: Don't worry about me……
 					LoveSpace: Nothing against the others, but I do enjoy my space. It just feels better.
-					DislikeCrowded: Too many people around here...
-					HateCrowded: Please tell me you have somewhere else I could be...
-					LikeBiome: I know full well that I am not to step close to the Underworld... That has not stopped me.
+					DislikeCrowded: Too many people around here……
+					HateCrowded: Please tell me you have somewhere else I could be……
+					LikeBiome: I know full well that I am not to step close to the Underworld…… That has not stopped me.
 					DislikeBiome: This place brings back bad memories. Memories I would like to forget.
-					HateBiome: Foul place. You best have a good weapon...
+					HateBiome: Foul place. You best have a good weapon……
 					LoveNPC: A familiar face is always welcome. Tell {NPCName} I said hello.
-					LikeNPC: I feel at ease in {NPCName}'s company. We walk a similar path...
-					DislikeNPC: "{NPCName} hides their true selves from the others. I dislike this lack of honesty..."
-					HateNPC: Feh... Merely being in {NPCName}'s proximity is burning my skin.
+					LikeNPC: I feel at ease in {NPCName}'s company. We walk a similar path……
+					DislikeNPC: "{NPCName} hides their true selves from the others. I dislike this lack of honesty……"
+					HateNPC: Feh…… Merely being in {NPCName}'s proximity is burning my skin.
 					LikeNPC_Princess: "{NPCName} is so cheerful it could even put a smile on MY face."
-					Princess_LovesNPC: "{NPCName} is such a sweetheart. He makes little fires for me when I'm cold!"
+					Princess_LovesNPC: "{NPCName} is such a sweetheart. He makes little fires for me when I'm cold！"
 				}
 
 				Census.SpawnCondition: Defeat the [c/4dffb8:{$NPCs.FallenBeholder.DisplayName}]
@@ -21387,7 +21173,7 @@ Mods: {
 			BoneLeeContract: {
 				Title: 赏金猎人的终点
 				Description: 小子，我这有个私人合同给你……我一般不会请你做这种事，但听我说完。多年以前，我和我的搭档李小龙一起出去闯荡江湖。我俩当年可是所向披靡，直到我们在一次异常困难的任务里犯下了致命的错误。为了救我，他被困在了地牢里，现在早已化作了一具枯骨。至今我都没能原谅当时我独自苟活……求你了，进入地牢，让他饱受折磨的灵魂安息吧……
-				DescriptionCompleted: 你帮了我个大忙，我永生难忘。哎，我多么希望我能面对面地向他道歉……我相当肯定你已经拥有了超越了我们当年的实力。时代变了，小子，被你这样的后起之秀超过还真是发人深省。作为报酬，这些是李小龙当年用过的武器……你在战斗中使用它们，他的在天之灵大概也会感到欣慰吧。多保重!
+				DescriptionCompleted: 你帮了我个大忙，我永生难忘。哎，我多么希望我能面对面地向他道歉……我相当肯定你已经拥有了超越了我们当年的实力。时代变了，小子，被你这样的后起之秀超过还真是发人深省。作为报酬，这些是李小龙当年用过的武器……你在战斗中使用它们，他的在天之灵大概也会感到欣慰吧。多保重！
 			}
 
 			CursedContract: {
@@ -21523,11 +21309,11 @@ Mods: {
 
 		DeathText: {
 			MartyrChalice: "{0} 为了更大的利益而牺牲了自己。"
-			TheGauntlet: "{0} 化为尘埃..."
-			AmmutsebaSash: "{0} 被黑暗所吞噬..."
+			TheGauntlet: "{0} 化为尘埃……"
+			AmmutsebaSash: "{0} 被黑暗所吞噬……"
 			ShadeMasterMaskSet: "{0} 无法苟活。"
-			LastStand: "{0} 一滴不剩..."
-			HungeringBlossom: "{0} 被黑暗所吞噬..."
+			LastStand: "{0} 一滴不剩……"
+			HungeringBlossom: "{0} 被黑暗所吞噬……"
 			Destabilized: "{0} 被彻底抹除。"
 			GraveLimb: "{0} 无法掌握局面。"
 			Liquefied: "{0} 液化了。"
